@@ -3,10 +3,15 @@
 	"id": "legominecraft",
 	"version": "${version}",
 	"name": "Lego Minecraft",
-	"description": "Adds colorful Lego bricks to Minecraft — build anything with classic studded blocks!",
+	"description": "Build with real LEGO parts at 1:1 scale: 324 official parts in 26 colours, stud snapping, multi-part blocks, Technic, bars and clips.",
 	"authors": [
 		"LegoMinecraft Team"
 	],
+	"contact": {
+		"homepage": "https://github.com/JinRuiMaoMao/Lego-Minecraft",
+		"sources": "https://github.com/JinRuiMaoMao/Lego-Minecraft",
+		"issues": "https://github.com/JinRuiMaoMao/Lego-Minecraft/issues"
+	},
 	"license": "MIT",
 	"icon": "assets/legominecraft/icon.png",
 	"environment": "*",
