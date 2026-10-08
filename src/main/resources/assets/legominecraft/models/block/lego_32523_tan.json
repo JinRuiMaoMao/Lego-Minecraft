@@ -1,0 +1,202 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "all": "legominecraft:block/lego_tan",
+    "hole": "legominecraft:block/lego_flat_hole",
+    "particle": "legominecraft:block/lego_flat_tan"
+  },
+  "elements": [
+    {
+      "from": [
+        2.6552,
+        5.5948,
+        5.5948
+      ],
+      "to": [
+        13.3448,
+        10.4052,
+        10.4052
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        0.8513,
+        6.1961,
+        5.5948
+      ],
+      "to": [
+        15.1487,
+        9.8039,
+        10.4052
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        0.25,
+        7.0379,
+        5.5948
+      ],
+      "to": [
+        15.75,
+        8.9621,
+        10.4052
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        1.1853,
+        6.5302,
+        5.5614
+      ],
+      "to": [
+        4.125,
+        9.4698,
+        10.4386
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    },
+    {
+      "from": [
+        6.5302,
+        6.5302,
+        5.5614
+      ],
+      "to": [
+        9.4698,
+        9.4698,
+        10.4386
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    },
+    {
+      "from": [
+        11.875,
+        6.5302,
+        5.5614
+      ],
+      "to": [
+        14.8147,
+        9.4698,
+        10.4386
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    }
+  ]
+}

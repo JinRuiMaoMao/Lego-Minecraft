@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3024_green"
+    },
+    {
+      "item": "legominecraft:lego_3024_green"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_36841_green",
+    "count": 1
+  }
+}

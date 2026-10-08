@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3001_light_orange"
+    },
+    {
+      "item": "legominecraft:lego_3001_light_orange"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_2434_light_orange",
+    "count": 1
+  }
+}

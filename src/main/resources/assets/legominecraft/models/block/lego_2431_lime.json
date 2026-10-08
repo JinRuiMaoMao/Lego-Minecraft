@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "all": "legominecraft:block/lego_lime",
+    "hole": "legominecraft:block/lego_flat_hole",
+    "particle": "legominecraft:block/lego_flat_lime"
+  },
+  "elements": [
+    {
+      "from": [
+        6.0,
+        7.3333,
+        0.0
+      ],
+      "to": [
+        10.0,
+        8.6667,
+        16.0
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    }
+  ]
+}

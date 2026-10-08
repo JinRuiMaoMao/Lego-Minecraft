@@ -1,0 +1,6 @@
+{
+  "parent": "legominecraft:block/lego_flower_template",
+  "textures": {
+    "all": "legominecraft:block/lego_light_gray"
+  }
+}

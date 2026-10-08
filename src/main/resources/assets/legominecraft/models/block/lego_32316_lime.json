@@ -1,0 +1,266 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "all": "legominecraft:block/lego_lime",
+    "hole": "legominecraft:block/lego_flat_hole",
+    "particle": "legominecraft:block/lego_flat_lime"
+  },
+  "elements": [
+    {
+      "from": [
+        1.6735,
+        6.5765,
+        6.5765
+      ],
+      "to": [
+        14.3265,
+        9.4235,
+        9.4235
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        0.6059,
+        6.9324,
+        6.5765
+      ],
+      "to": [
+        15.3941,
+        9.0676,
+        9.4235
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        0.25,
+        7.4306,
+        6.5765
+      ],
+      "to": [
+        15.75,
+        8.5694,
+        9.4235
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        0.8036,
+        7.1301,
+        6.5568
+      ],
+      "to": [
+        2.5434,
+        8.8699,
+        9.4432
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    },
+    {
+      "from": [
+        3.9668,
+        7.1301,
+        6.5568
+      ],
+      "to": [
+        5.7066,
+        8.8699,
+        9.4432
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    },
+    {
+      "from": [
+        7.1301,
+        7.1301,
+        6.5568
+      ],
+      "to": [
+        8.8699,
+        8.8699,
+        9.4432
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    },
+    {
+      "from": [
+        10.2934,
+        7.1301,
+        6.5568
+      ],
+      "to": [
+        12.0332,
+        8.8699,
+        9.4432
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    },
+    {
+      "from": [
+        13.4566,
+        7.1301,
+        6.5568
+      ],
+      "to": [
+        15.1964,
+        8.8699,
+        9.4432
+      ],
+      "faces": {
+        "north": {
+          "texture": "#hole"
+        },
+        "east": {
+          "texture": "#hole"
+        },
+        "south": {
+          "texture": "#hole"
+        },
+        "west": {
+          "texture": "#hole"
+        },
+        "up": {
+          "texture": "#hole"
+        },
+        "down": {
+          "texture": "#hole"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D ",
+    "CB"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "D": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_animal_light_orange",
+    "count": 1
+  }
+}

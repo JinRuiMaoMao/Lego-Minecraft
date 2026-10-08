@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P  ",
+    "P  ",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_dark_red"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_77844_dark_red",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HT"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_41239_pink"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_pink"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_64871_pink",
+    "count": 1
+  }
+}

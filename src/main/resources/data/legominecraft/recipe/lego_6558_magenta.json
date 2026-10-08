@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_2780_magenta"
+    },
+    {
+      "item": "legominecraft:lego_2780_magenta"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_6558_magenta",
+    "count": 1
+  }
+}

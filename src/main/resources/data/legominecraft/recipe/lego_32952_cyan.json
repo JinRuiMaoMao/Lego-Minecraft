@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_87087_cyan"
+    },
+    {
+      "item": "legominecraft:lego_3024_cyan"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_32952_cyan",
+    "count": 1
+  }
+}

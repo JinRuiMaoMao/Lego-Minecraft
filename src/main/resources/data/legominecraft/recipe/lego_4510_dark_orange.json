@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3460_dark_orange"
+    },
+    {
+      "item": "minecraft:rail"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_4510_dark_orange",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E",
+    "E"
+  ],
+  "key": {
+    "E": {
+      "item": "legominecraft:lego_41539_red"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_92438_red",
+    "count": 1
+  }
+}

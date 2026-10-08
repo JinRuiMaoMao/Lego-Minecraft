@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3035_white"
+    },
+    {
+      "item": "minecraft:green_stained_glass_pane"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_3035_trans_green",
+    "count": 1
+  }
+}

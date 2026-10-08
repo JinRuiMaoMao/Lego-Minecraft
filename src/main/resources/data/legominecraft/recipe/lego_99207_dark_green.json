@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_44728_dark_green"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_99207_dark_green",
+    "count": 1
+  }
+}

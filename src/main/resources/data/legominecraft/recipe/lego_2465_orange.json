@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EE"
+  ],
+  "key": {
+    "E": {
+      "item": "legominecraft:lego_3008_orange"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_2465_orange",
+    "count": 1
+  }
+}

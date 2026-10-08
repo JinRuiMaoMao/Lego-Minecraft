@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NT"
+  ],
+  "key": {
+    "N": {
+      "item": "legominecraft:lego_64289_white"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_white"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_64290_white",
+    "count": 1
+  }
+}

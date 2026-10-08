@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T ",
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_3622_white"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3038_white",
+    "count": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "T"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_2445_lime"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3029_lime",
+    "count": 1
+  }
+}

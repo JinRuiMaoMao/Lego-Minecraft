@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "legominecraft:lego_3005_purple"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3622_purple",
+    "count": 1
+  }
+}

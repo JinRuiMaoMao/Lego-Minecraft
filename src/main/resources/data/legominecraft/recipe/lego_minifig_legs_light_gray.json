@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "P",
+    "P"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_light_gray"
+    },
+    "D": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_legs_light_gray",
+    "count": 1
+  }
+}

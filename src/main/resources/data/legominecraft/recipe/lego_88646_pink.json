@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3710_pink"
+    },
+    {
+      "item": "legominecraft:lego_2431_pink"
+    },
+    {
+      "item": "legominecraft:lego_2431_pink"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_88646_pink",
+    "count": 1
+  }
+}

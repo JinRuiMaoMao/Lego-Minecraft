@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_43722_dark_tan"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_43723_dark_tan",
+    "count": 1
+  }
+}

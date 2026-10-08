@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_4073_brown"
+    },
+    {
+      "item": "legominecraft:lego_4073_brown"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_6190_brown",
+    "count": 1
+  }
+}

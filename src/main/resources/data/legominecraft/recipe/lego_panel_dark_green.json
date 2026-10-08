@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT",
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_3070_dark_green"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_panel_dark_green",
+    "count": 1
+  }
+}

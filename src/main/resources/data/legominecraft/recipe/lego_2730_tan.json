@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TD"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_3702_tan"
+    },
+    "D": {
+      "item": "legominecraft:lego_3700_tan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_2730_tan",
+    "count": 1
+  }
+}

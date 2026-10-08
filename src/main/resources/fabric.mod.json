@@ -1,31 +1,30 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "legominecraft",
 	"version": "${version}",
-	"name": "Example Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Lego Minecraft",
+	"description": "Adds colorful Lego bricks to Minecraft — build anything with classic studded blocks!",
 	"authors": [
-		"Me!"
+		"LegoMinecraft Team"
 	],
-	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
-	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
+	"license": "MIT",
+	"icon": "assets/legominecraft/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.legominecraft.LegoMinecraftMod"
 		],
 		"client": [
-			"com.example.client.ExampleModClient"
+			"com.legominecraft.client.LegoMinecraftClient",
+			"com.legominecraft.client.LegoMultipartClient"
+		],
+		"jade": [
+			"com.legominecraft.compat.LegoJadeRegistration"
 		]
 	},
 	"mixins": [
-		"modid.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "legominecraft.client.mixins.json",
 			"environment": "client"
 		}
 	],
@@ -33,6 +32,12 @@
 		"fabricloader": ">=0.19.5",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"libmultipart": ">=0.13.0-pre.3",
+		"libblockattributes": "*",
+		"libnetworkstack": "*"
+	},
+	"suggests": {
+		"jade": "*"
 	}
 }

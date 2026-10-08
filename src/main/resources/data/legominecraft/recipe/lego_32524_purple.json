@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FT"
+  ],
+  "key": {
+    "F": {
+      "item": "legominecraft:lego_32316_purple"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_purple"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_32524_purple",
+    "count": 1
+  }
+}

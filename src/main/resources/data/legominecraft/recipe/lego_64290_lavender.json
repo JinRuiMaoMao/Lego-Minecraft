@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NT"
+  ],
+  "key": {
+    "N": {
+      "item": "legominecraft:lego_64289_lavender"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_lavender"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_64290_lavender",
+    "count": 1
+  }
+}

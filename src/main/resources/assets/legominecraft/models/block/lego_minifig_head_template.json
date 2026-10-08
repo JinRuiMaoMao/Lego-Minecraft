@@ -1,0 +1,25 @@
+{
+  "textures": {
+    "all": "legominecraft:block/lego_yellow"
+  },
+  "elements": [
+    {
+      "from": [4, 0, 4],
+      "to": [12, 9, 12],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    },
+    {
+      "from": [5, 9, 5],
+      "to": [11, 11, 11],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_87994_light_gray"
+    },
+    {
+      "item": "legominecraft:lego_4073_light_gray"
+    },
+    {
+      "item": "legominecraft:lego_4073_light_gray"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_66909_light_gray",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "legominecraft:lego_4032_dark_tan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_11213_dark_tan",
+    "count": 1
+  }
+}

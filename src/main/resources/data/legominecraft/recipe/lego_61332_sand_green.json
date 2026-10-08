@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:fern"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_61332_sand_green",
+    "count": 8
+  }
+}

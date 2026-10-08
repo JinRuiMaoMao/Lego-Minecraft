@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "T",
+    "L"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_minifig_head_pink"
+    },
+    "T": {
+      "item": "legominecraft:lego_minifig_torso_pink"
+    },
+    "L": {
+      "item": "legominecraft:lego_minifig_legs_pink"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_statue_pink",
+    "count": 1
+  }
+}

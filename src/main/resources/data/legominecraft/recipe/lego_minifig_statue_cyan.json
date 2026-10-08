@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "T",
+    "L"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_minifig_head_cyan"
+    },
+    "T": {
+      "item": "legominecraft:lego_minifig_torso_cyan"
+    },
+    "L": {
+      "item": "legominecraft:lego_minifig_legs_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_statue_cyan",
+    "count": 1
+  }
+}

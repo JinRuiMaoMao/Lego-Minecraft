@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SD"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_fabric_lavender",
+    "count": 1
+  }
+}

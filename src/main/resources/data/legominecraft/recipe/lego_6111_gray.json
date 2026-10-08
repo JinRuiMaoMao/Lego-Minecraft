@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQD"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3010_gray"
+    },
+    "D": {
+      "item": "legominecraft:lego_3004_gray"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_6111_gray",
+    "count": 1
+  }
+}

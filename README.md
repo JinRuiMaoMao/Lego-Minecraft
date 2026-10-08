@@ -1,9 +1,61 @@
-# Example Mod
+# Lego Minecraft
 
-## Setup
+基于 [乐高官方 Pick a Brick](https://www.lego.com/en-us/pick-and-build/pick-a-brick) 完整零件体系的 Fabric 模组（Minecraft 1.21.1）。
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## 规模
 
-## License
+**31 种零件 × 14 色 = 434 个方块** + **14 种可走动乐高人仔**
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## 创造模式物品栏（5 个）
+
+| 物品栏 | 内容 |
+|--------|------|
+| **乐高结构件** | 砖、板、光面砖、斜面砖、圆砖、底板 |
+| **乐高机械组** | 科技梁、连接件、轮子、齿轮、十字轴、销子、链条、马达 |
+| **乐高人仔** | 头、上身、腿、雕像、**可走动人仔生成器** |
+| **乐高装饰** | 动物、植物、叶子、花、椅子、桌子、窗户、门、灯 |
+| **乐高杂项** | 缆线、织物、装饰板、标牌 |
+
+## 可走动乐高人仔
+
+- 使用 **人仔生成器**（右键地面）召唤可走动的人仔
+- 合成：人仔雕像 → 人仔生成器
+- 死亡时掉落对应颜色的生成器
+
+## 真实乐高拼搭机制
+
+- **凸点吸附**：乐高零件放上去时会「咔哒」一声吸附到凸点上（粒子 + 音效）
+- **板件分层**：在同一格上连续放 **板（Plate）** 可堆叠 1→2→3 层（3 层 = 1 块砖高度）
+- **连接规则**：
+  - 有凸点的零件才能在上面继续堆叠
+  - **光面砖（Tile）** 等光滑顶面无法叠砖（和现实一样）
+  - **底板** 可直接铺在地面上
+- **斜面砖** 会朝向你放置时面对的方向
+
+## 合成链速查
+
+```
+黏土+染料 → 砖 → 板 → 光面砖/窗户/门/…
+                ↓
+         铁锭 → 科技梁 → 齿轮/十字轴/马达
+人仔：头 + 上身 + 腿 → 雕像 → 生成器 → 可走动人仔
+装饰：植物 → 叶子/花 | 板+砖 → 家具
+杂项：线+史莱姆 → 缆线 | 线+染料 → 织物
+```
+
+## 构建与运行
+
+```bash
+.\gradlew.bat build
+.\gradlew.bat runClient
+```
+
+输出：`build/libs/legominecraft-1.0.0.jar`
+
+## 依赖
+
+Java 21+ · Minecraft 1.21.1 · Fabric Loader 0.19.5+ · Fabric API
+
+## 许可证
+
+MIT

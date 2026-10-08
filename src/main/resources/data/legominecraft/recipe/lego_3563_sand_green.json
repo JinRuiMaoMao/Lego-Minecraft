@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_49307_sand_green"
+    },
+    {
+      "item": "legominecraft:lego_49307_sand_green"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_3563_sand_green",
+    "count": 1
+  }
+}

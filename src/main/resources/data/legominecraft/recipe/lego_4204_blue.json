@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E",
+    "E"
+  ],
+  "key": {
+    "E": {
+      "item": "legominecraft:lego_4201_blue"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_4204_blue",
+    "count": 1
+  }
+}

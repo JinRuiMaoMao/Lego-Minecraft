@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CDC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "D": {
+      "item": "minecraft:fern"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3005_sand_green",
+    "count": 4
+  }
+}

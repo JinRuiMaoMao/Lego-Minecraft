@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_orange"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_11212_orange",
+    "count": 1
+  }
+}

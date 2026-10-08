@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "T",
+    "T"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_4282_light_orange"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3027_light_orange",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_4073_cyan"
+    },
+    {
+      "item": "legominecraft:lego_4073_cyan"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_6190_cyan",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "R": {
+      "item": "legominecraft:lego_4073_black"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_4032_black",
+    "count": 1
+  }
+}

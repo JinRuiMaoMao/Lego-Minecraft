@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3020_black"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3867_black",
+    "count": 1
+  }
+}

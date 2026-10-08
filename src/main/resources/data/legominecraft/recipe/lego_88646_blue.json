@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3710_blue"
+    },
+    {
+      "item": "legominecraft:lego_2431_blue"
+    },
+    {
+      "item": "legominecraft:lego_2431_blue"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_88646_blue",
+    "count": 1
+  }
+}

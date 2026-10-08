@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "R": {
+      "item": "legominecraft:lego_4073_dark_blue"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_4032_dark_blue",
+    "count": 1
+  }
+}

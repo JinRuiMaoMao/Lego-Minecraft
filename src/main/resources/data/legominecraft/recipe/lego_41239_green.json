@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ET"
+  ],
+  "key": {
+    "E": {
+      "item": "legominecraft:lego_64290_green"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_green"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_41239_green",
+    "count": 1
+  }
+}

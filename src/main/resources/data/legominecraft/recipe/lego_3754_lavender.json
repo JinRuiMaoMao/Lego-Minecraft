@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "legominecraft:lego_2454_lavender"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3754_lavender",
+    "count": 1
+  }
+}

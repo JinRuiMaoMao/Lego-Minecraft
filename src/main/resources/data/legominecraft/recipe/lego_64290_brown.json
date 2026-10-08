@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NT"
+  ],
+  "key": {
+    "N": {
+      "item": "legominecraft:lego_64289_brown"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_brown"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_64290_brown",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "BB"
+  ],
+  "key": {
+    "B": {
+      "item": "legominecraft:lego_3005_pink"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3003_pink",
+    "count": 1
+  }
+}

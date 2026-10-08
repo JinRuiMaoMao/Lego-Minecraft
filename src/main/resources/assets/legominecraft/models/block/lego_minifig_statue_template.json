@@ -1,0 +1,43 @@
+{
+  "textures": {
+    "all": "legominecraft:block/lego_yellow"
+  },
+  "elements": [
+    {
+      "from": [5, 12, 5],
+      "to": [11, 16, 11],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    },
+    {
+      "from": [4, 6, 4],
+      "to": [12, 12, 12],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    },
+    {
+      "from": [3, 0, 4],
+      "to": [7, 6, 12],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    },
+    {
+      "from": [9, 0, 4],
+      "to": [13, 6, 12],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    }
+  ]
+}

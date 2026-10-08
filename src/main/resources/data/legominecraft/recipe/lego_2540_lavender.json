@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_48336_lavender"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_2540_lavender",
+    "count": 1
+  }
+}

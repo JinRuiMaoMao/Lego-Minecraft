@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "T",
+    "L"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_minifig_head_black"
+    },
+    "T": {
+      "item": "legominecraft:lego_minifig_torso_black"
+    },
+    "L": {
+      "item": "legominecraft:lego_minifig_legs_black"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_statue_black",
+    "count": 1
+  }
+}

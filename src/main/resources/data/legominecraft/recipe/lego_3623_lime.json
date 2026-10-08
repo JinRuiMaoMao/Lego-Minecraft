@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_lime"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3623_lime",
+    "count": 1
+  }
+}

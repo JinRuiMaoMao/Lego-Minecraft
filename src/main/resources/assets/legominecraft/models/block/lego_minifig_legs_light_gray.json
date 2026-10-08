@@ -1,0 +1,6 @@
+{
+  "parent": "legominecraft:block/lego_minifig_legs_template",
+  "textures": {
+    "all": "legominecraft:block/lego_light_gray"
+  }
+}

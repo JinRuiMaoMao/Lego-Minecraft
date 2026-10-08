@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Q",
+    "Q",
+    "Q"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3010_dark_tan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_49311_dark_tan",
+    "count": 1
+  }
+}

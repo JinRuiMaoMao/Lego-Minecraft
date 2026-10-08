@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "legominecraft:lego_3005_lavender"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3622_lavender",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "D": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_head_dark_brown",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QP"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3710_orange"
+    },
+    "P": {
+      "item": "legominecraft:lego_3024_orange"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_78329_orange",
+    "count": 1
+  }
+}

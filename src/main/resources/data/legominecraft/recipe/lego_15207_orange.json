@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_2431_orange"
+    },
+    {
+      "item": "legominecraft:lego_2431_orange"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_15207_orange",
+    "count": 1
+  }
+}

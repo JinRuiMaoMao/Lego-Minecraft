@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_plant_sand_green"
+    },
+    {
+      "item": "minecraft:fern"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_flower_sand_green",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "T",
+    "T"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_2445_dark_red"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3028_dark_red",
+    "count": 1
+  }
+}

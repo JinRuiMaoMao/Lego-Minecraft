@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3957_white"
+    },
+    {
+      "item": "minecraft:lime_stained_glass_pane"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_3957_trans_neon_green",
+    "count": 1
+  }
+}

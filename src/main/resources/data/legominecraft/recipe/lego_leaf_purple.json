@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_plant_purple"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_leaf_purple",
+    "count": 4
+  }
+}

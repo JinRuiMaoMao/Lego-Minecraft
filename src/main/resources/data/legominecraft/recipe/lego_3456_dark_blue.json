@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "T",
+    "T"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_91988_dark_blue"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3456_dark_blue",
+    "count": 1
+  }
+}

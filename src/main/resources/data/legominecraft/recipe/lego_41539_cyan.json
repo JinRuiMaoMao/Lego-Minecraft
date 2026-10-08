@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "F"
+  ],
+  "key": {
+    "F": {
+      "item": "legominecraft:lego_3035_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_41539_cyan",
+    "count": 1
+  }
+}

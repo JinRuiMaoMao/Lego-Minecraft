@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB"
+  ],
+  "key": {
+    "B": {
+      "item": "legominecraft:lego_3005_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3004_cyan",
+    "count": 1
+  }
+}

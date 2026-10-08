@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_tan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_door_tan",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "legominecraft:block/lego_sign_template",
+  "textures": {
+    "all": "legominecraft:block/lego_green"
+  }
+}

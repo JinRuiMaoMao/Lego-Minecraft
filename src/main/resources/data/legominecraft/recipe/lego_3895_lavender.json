@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TQ"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_3702_lavender"
+    },
+    "Q": {
+      "item": "legominecraft:lego_3701_lavender"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3895_lavender",
+    "count": 1
+  }
+}

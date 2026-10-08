@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SD"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_fabric_light_orange",
+    "count": 1
+  }
+}

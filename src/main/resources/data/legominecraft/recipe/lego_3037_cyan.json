@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Q ",
+    "QQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3010_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3037_cyan",
+    "count": 2
+  }
+}

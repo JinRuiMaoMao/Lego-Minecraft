@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "legominecraft:lego_2454_yellow"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3754_yellow",
+    "count": 1
+  }
+}

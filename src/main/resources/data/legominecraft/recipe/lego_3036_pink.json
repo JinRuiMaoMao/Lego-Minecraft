@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": {
+      "item": "legominecraft:lego_3034_pink"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3036_pink",
+    "count": 1
+  }
+}

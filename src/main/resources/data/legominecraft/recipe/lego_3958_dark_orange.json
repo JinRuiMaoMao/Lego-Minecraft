@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "legominecraft:lego_3022_dark_orange"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3958_dark_orange",
+    "count": 1
+  }
+}

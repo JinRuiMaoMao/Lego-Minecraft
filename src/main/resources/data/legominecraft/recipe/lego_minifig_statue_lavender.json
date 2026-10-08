@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "T",
+    "L"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_minifig_head_lavender"
+    },
+    "T": {
+      "item": "legominecraft:lego_minifig_torso_lavender"
+    },
+    "L": {
+      "item": "legominecraft:lego_minifig_legs_lavender"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_statue_lavender",
+    "count": 1
+  }
+}

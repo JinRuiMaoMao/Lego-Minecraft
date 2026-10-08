@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3622_lime"
+    },
+    {
+      "item": "legominecraft:lego_3622_lime"
+    },
+    {
+      "item": "legominecraft:lego_3622_lime"
+    },
+    {
+      "item": "legominecraft:lego_3622_lime"
+    },
+    {
+      "item": "legominecraft:lego_3622_lime"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_3755_lime",
+    "count": 1
+  }
+}

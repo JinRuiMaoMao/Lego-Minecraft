@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_32523_white"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_43857_white",
+    "count": 1
+  }
+}

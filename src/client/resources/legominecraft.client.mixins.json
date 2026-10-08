@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.legominecraft.client.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"CreativeModeInventoryScreenMixin",
+		"MouseHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

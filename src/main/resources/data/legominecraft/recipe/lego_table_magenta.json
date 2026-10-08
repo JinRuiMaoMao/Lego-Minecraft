@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_magenta"
+    },
+    "B": {
+      "item": "legominecraft:lego_3005_magenta"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_table_magenta",
+    "count": 1
+  }
+}

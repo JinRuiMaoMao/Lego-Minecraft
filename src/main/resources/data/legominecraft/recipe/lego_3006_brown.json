@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XD"
+  ],
+  "key": {
+    "X": {
+      "item": "legominecraft:lego_3007_brown"
+    },
+    "D": {
+      "item": "legominecraft:lego_3003_brown"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3006_brown",
+    "count": 1
+  }
+}

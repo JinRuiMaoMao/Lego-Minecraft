@@ -1,0 +1,9468 @@
+[
+  {
+    "design_id": 3005,
+    "name_en": "Brick 1×1",
+    "name_zh": "砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "clay": 4
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3004,
+    "name_en": "Brick 1×2",
+    "name_zh": "砖 1×2",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "BB"
+      ],
+      "key": {
+        "B": 3005
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3622,
+    "name_en": "Brick 1×3",
+    "name_zh": "砖 1×3",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "BBB"
+      ],
+      "key": {
+        "B": 3005
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_yellow",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3010,
+    "name_en": "Brick 1×4",
+    "name_zh": "砖 1×4",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "DD"
+      ],
+      "key": {
+        "D": 3004
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_dark_pink",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_yellow",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 2653,
+    "name_en": "Brick 1×4 with Groove",
+    "name_zh": "带槽砖 1×4",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3010,
+        "minecraft:rail"
+      ]
+    }
+  },
+  {
+    "design_id": 3009,
+    "name_en": "Brick 1×6",
+    "name_zh": "砖 1×6",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "DDD"
+      ],
+      "key": {
+        "D": 3004
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_yellow",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3008,
+    "name_en": "Brick 1×8",
+    "name_zh": "砖 1×8",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "QQ"
+      ],
+      "key": {
+        "Q": 3010
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_purple",
+      "trans_light_blue",
+      "trans_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3003,
+    "name_en": "Brick 2×2",
+    "name_zh": "砖 2×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "BB",
+        "BB"
+      ],
+      "key": {
+        "B": 3005
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_neon_green",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3002,
+    "name_en": "Brick 2×3",
+    "name_zh": "砖 2×3",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "BBB",
+        "BBB"
+      ],
+      "key": {
+        "B": 3005
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3001,
+    "name_en": "Brick 2×4",
+    "name_zh": "砖 2×4",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "DD",
+        "DD"
+      ],
+      "key": {
+        "D": 3004
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 2456,
+    "name_en": "Brick 2×6",
+    "name_zh": "砖 2×6",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "DDD",
+        "DDD"
+      ],
+      "key": {
+        "D": 3004
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3007,
+    "name_en": "Brick 2×8",
+    "name_zh": "砖 2×8",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "QQ",
+        "QQ"
+      ],
+      "key": {
+        "Q": 3010
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3024,
+    "name_en": "Plate 1×1",
+    "name_zh": "板 1×1",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3005
+      ],
+      "count": 3
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange",
+      "opal_trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 11253,
+    "name_en": "Minifig Roller Skate",
+    "name_zh": "人仔旱冰鞋",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "aliases": [
+      18747
+    ],
+    "shape": [
+      [
+        [
+          0.2,
+          0
+        ],
+        [
+          0.8,
+          0
+        ],
+        [
+          0.8,
+          1
+        ],
+        [
+          0.2,
+          1
+        ]
+      ]
+    ],
+    "studs": [
+      [
+        0.5,
+        0.5
+      ]
+    ],
+    "smooth_bottom": true,
+    "bars": [
+      {
+        "from": [
+          0,
+          1,
+          1.2
+        ],
+        "to": [
+          1.2,
+          1,
+          1.2
+        ],
+        "r": 1.0,
+        "grip": false
+      },
+      {
+        "from": [
+          0,
+          1,
+          4.8
+        ],
+        "to": [
+          1.2,
+          1,
+          4.8
+        ],
+        "r": 1.0,
+        "grip": false
+      },
+      {
+        "from": [
+          4.8,
+          1,
+          1.2
+        ],
+        "to": [
+          6.0,
+          1,
+          1.2
+        ],
+        "r": 1.0,
+        "grip": false
+      },
+      {
+        "from": [
+          4.8,
+          1,
+          4.8
+        ],
+        "to": [
+          6.0,
+          1,
+          4.8
+        ],
+        "r": 1.0,
+        "grip": false
+      }
+    ],
+    "boxes": [
+      [
+        1.2,
+        0,
+        -1.2,
+        4.8,
+        3,
+        0
+      ],
+      [
+        1.2,
+        0,
+        6,
+        4.8,
+        2,
+        7.2
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3024,
+        "minecraft:leather"
+      ]
+    }
+  },
+  {
+    "design_id": 93555,
+    "name_en": "Minifig Ice Skate",
+    "name_zh": "人仔冰鞋",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 1,
+    "studs": [
+      [
+        0.5,
+        0.5,
+        1
+      ]
+    ],
+    "bars": [],
+    "boxes": [
+      [
+        0.8,
+        1.4,
+        -2.9,
+        5.2,
+        2,
+        7.4
+      ],
+      [
+        2.7,
+        0,
+        -2.4,
+        3.3,
+        1.4,
+        8.8
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        11253,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 3023,
+    "name_en": "Plate 1×2",
+    "name_zh": "板 1×2",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "PP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 32028,
+    "name_en": "Plate 1×2 with Door Rail",
+    "name_zh": "带门轨板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "boxes": [
+      [
+        0,
+        0,
+        -2.7,
+        12,
+        0.75,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -2.7,
+        12,
+        2,
+        -1.8
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:rail"
+      ]
+    }
+  },
+  {
+    "design_id": 4510,
+    "name_en": "Plate 1×8 with Door Rail",
+    "name_zh": "带门轨板 1×8",
+    "kind": "plate",
+    "studs_x": 8,
+    "studs_z": 1,
+    "boxes": [
+      [
+        0,
+        0,
+        -2.7,
+        48,
+        0.75,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -2.7,
+        48,
+        2,
+        -1.8
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3460,
+        "minecraft:rail"
+      ]
+    }
+  },
+  {
+    "design_id": 30586,
+    "name_en": "Plate 2×8 with Door Rail",
+    "name_zh": "带门轨板 2×8",
+    "kind": "plate",
+    "studs_x": 8,
+    "studs_z": 1,
+    "boxes": [
+      [
+        0,
+        0,
+        -1.2,
+        48,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        -6,
+        48,
+        1,
+        -1.2
+      ],
+      [
+        0,
+        1,
+        -6.6,
+        48,
+        2.5,
+        -6
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3034,
+        "minecraft:rail"
+      ]
+    }
+  },
+  {
+    "design_id": 3623,
+    "name_en": "Plate 1×3",
+    "name_zh": "板 1×3",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "PPP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 35459,
+    "name_en": "Tile 1×3 Inverted with Centre Hole",
+    "name_zh": "倒置光面砖 1×3（中心孔）",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 1,
+    "open_studs": true,
+    "smooth_bottom": true,
+    "recipe": {
+      "shapeless": [
+        3623,
+        "minecraft:paper"
+      ]
+    }
+  },
+  {
+    "design_id": 3710,
+    "name_en": "Plate 1×4",
+    "name_zh": "板 1×4",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "DD"
+      ],
+      "key": {
+        "D": 3023
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3666,
+    "name_en": "Plate 1×6",
+    "name_zh": "板 1×6",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "DDD"
+      ],
+      "key": {
+        "D": 3023
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3460,
+    "name_en": "Plate 1×8",
+    "name_zh": "板 1×8",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "QQ"
+      ],
+      "key": {
+        "Q": 3710
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_neon_green"
+    ]
+  },
+  {
+    "design_id": 3022,
+    "name_en": "Plate 2×2",
+    "name_zh": "板 2×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "PP",
+        "PP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 11203,
+    "name_en": "Tile 2×2 Inverted",
+    "name_zh": "倒置光面砖 2×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "smooth_bottom": true,
+    "recipe": {
+      "shapeless": [
+        3022,
+        "minecraft:paper"
+      ]
+    },
+    "open_studs": true
+  },
+  {
+    "design_id": 3021,
+    "name_en": "Plate 2×3",
+    "name_zh": "板 2×3",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "PPP",
+        "PPP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3020,
+    "name_en": "Plate 2×4",
+    "name_zh": "板 2×4",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "DD",
+        "DD"
+      ],
+      "key": {
+        "D": 3023
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3395,
+    "name_en": "Tile 2×4 Inverted",
+    "name_zh": "倒置光面砖 2×4",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 2,
+    "smooth_bottom": true,
+    "recipe": {
+      "shapeless": [
+        3020,
+        "minecraft:paper"
+      ]
+    },
+    "open_studs": true
+  },
+  {
+    "design_id": 3795,
+    "name_en": "Plate 2×6",
+    "name_zh": "板 2×6",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "DDD",
+        "DDD"
+      ],
+      "key": {
+        "D": 3023
+      }
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_light_blue",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3034,
+    "name_en": "Plate 2×8",
+    "name_zh": "板 2×8",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "QQ",
+        "QQ"
+      ],
+      "key": {
+        "Q": 3710
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red"
+    ]
+  },
+  {
+    "design_id": 3031,
+    "name_en": "Plate 4×4",
+    "name_zh": "板 4×4",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "SS",
+        "SS"
+      ],
+      "key": {
+        "S": 3022
+      }
+    }
+  },
+  {
+    "design_id": 3958,
+    "name_en": "Plate 6×6",
+    "name_zh": "板 6×6",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "SSS",
+        "SSS",
+        "SSS"
+      ],
+      "key": {
+        "S": 3022
+      }
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_dark_blue",
+      "trans_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3070,
+    "name_en": "Tile 1×1",
+    "name_zh": "光面砖 1×1",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3024
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3069,
+    "name_en": "Tile 1×2",
+    "name_zh": "光面砖 1×2",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3023
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange",
+      "opal_trans_clear",
+      "opal_trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 2431,
+    "name_en": "Tile 1×4",
+    "name_zh": "光面砖 1×4",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        3710
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_orange",
+      "opal_trans_clear",
+      "opal_trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 3068,
+    "name_en": "Tile 2×2",
+    "name_zh": "光面砖 2×2",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3022
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_dark_pink",
+      "trans_medium_blue",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 87079,
+    "name_en": "Tile 2×4",
+    "name_zh": "光面砖 2×4",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        3020
+      ]
+    }
+  },
+  {
+    "design_id": 3062,
+    "name_en": "Round Brick 1×1",
+    "name_zh": "圆砖 1×1",
+    "kind": "round_brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shaped": [
+        "B ",
+        " B"
+      ],
+      "key": {
+        "B": 3005
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_neon_orange",
+      "opal_trans_clear",
+      "opal_trans_purple"
+    ],
+    "open_studs": true
+  },
+  {
+    "design_id": 4073,
+    "name_en": "Round Plate 1×1",
+    "name_zh": "圆板 1×1",
+    "kind": "round_plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shaped": [
+        "P ",
+        " P"
+      ],
+      "key": {
+        "P": 3024
+      },
+      "count": 2
+    },
+    "aliases": [
+      6141
+    ],
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange",
+      "opal_trans_clear"
+    ]
+  },
+  {
+    "design_id": 3040,
+    "name_en": "Slope 45° 2×1",
+    "name_zh": "斜面砖 45° 2×1",
+    "kind": "slope",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "B ",
+        "BB"
+      ],
+      "key": {
+        "B": 3005
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3039,
+    "name_en": "Slope 45° 2×2",
+    "name_zh": "斜面砖 45° 2×2",
+    "kind": "slope",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "D ",
+        "DD"
+      ],
+      "key": {
+        "D": 3004
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3038,
+    "name_en": "Slope 45° 2×3",
+    "name_zh": "斜面砖 45° 2×3",
+    "kind": "slope",
+    "studs_x": 3,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "T ",
+        "TT"
+      ],
+      "key": {
+        "T": 3622
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3037,
+    "name_en": "Slope 45° 2×4",
+    "name_zh": "斜面砖 45° 2×4",
+    "kind": "slope",
+    "studs_x": 4,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "Q ",
+        "QQ"
+      ],
+      "key": {
+        "Q": 3010
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3867,
+    "name_en": "Baseplate 16×16",
+    "name_zh": "底板 16×16",
+    "kind": "baseplate",
+    "studs_x": 16,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "PPP",
+        "PPP",
+        "PPP"
+      ],
+      "key": {
+        "P": 3020
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3811,
+    "name_en": "Baseplate 32×32",
+    "name_zh": "底板 32×32",
+    "kind": "baseplate",
+    "studs_x": 32,
+    "studs_z": 32,
+    "recipe": {
+      "shaped": [
+        "XX",
+        "XX"
+      ],
+      "key": {
+        "X": 3867
+      }
+    }
+  },
+  {
+    "design_id": 6541,
+    "name_en": "Technic Brick 1×1 with Hole",
+    "name_zh": "科技砖 1×1 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3005,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3700,
+    "name_en": "Technic Brick 1×2 with Hole",
+    "name_zh": "科技砖 1×2 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3701,
+    "name_en": "Technic Brick 1×4 with Holes",
+    "name_zh": "科技砖 1×4 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        3010,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3894,
+    "name_en": "Technic Brick 1×6 with Holes",
+    "name_zh": "科技砖 1×6 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 6,
+    "recipe": {
+      "shapeless": [
+        3009,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3702,
+    "name_en": "Technic Brick 1×8 with Holes",
+    "name_zh": "科技砖 1×8 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 8,
+    "recipe": {
+      "shapeless": [
+        3008,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 2730,
+    "name_en": "Technic Brick 1×10 with Holes",
+    "name_zh": "科技砖 1×10 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "TD"
+      ],
+      "key": {
+        "T": 3702,
+        "D": 3700
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3895,
+    "name_en": "Technic Brick 1×12 with Holes",
+    "name_zh": "科技砖 1×12 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "TQ"
+      ],
+      "key": {
+        "T": 3702,
+        "Q": 3701
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 32018,
+    "name_en": "Technic Brick 1×14 with Holes",
+    "name_zh": "科技砖 1×14 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 14,
+    "recipe": {
+      "shaped": [
+        "TS"
+      ],
+      "key": {
+        "T": 3702,
+        "S": 3894
+      }
+    }
+  },
+  {
+    "design_id": 3703,
+    "name_en": "Technic Brick 1×16 with Holes",
+    "name_zh": "科技砖 1×16 带孔",
+    "kind": "technic_brick",
+    "studs_x": 1,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "TT"
+      ],
+      "key": {
+        "T": 3702
+      }
+    },
+    "trans_colors": [
+      "trans_neon_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3709,
+    "name_en": "Technic Plate 2×4 with Holes",
+    "name_zh": "科技板 2×4 带孔",
+    "kind": "technic_plate",
+    "studs_x": 2,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        3020,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 32001,
+    "name_en": "Technic Plate 2×6 with Holes",
+    "name_zh": "科技板 2×6 带孔",
+    "kind": "technic_plate",
+    "studs_x": 2,
+    "studs_z": 6,
+    "recipe": {
+      "shapeless": [
+        3795,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3738,
+    "name_en": "Technic Plate 2×8 with Holes",
+    "name_zh": "科技板 2×8 带孔",
+    "kind": "technic_plate",
+    "studs_x": 2,
+    "studs_z": 8,
+    "recipe": {
+      "shapeless": [
+        3034,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 43857,
+    "name_en": "Technic 2M Beam",
+    "name_zh": "科技梁 2M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        32523
+      ]
+    }
+  },
+  {
+    "design_id": 32523,
+    "name_en": "Technic 3M Beam",
+    "name_zh": "科技梁 3M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "CCC",
+        "NDN"
+      ],
+      "key": {
+        "C": "minecraft:clay_ball",
+        "N": "minecraft:iron_nugget",
+        "D": "dye"
+      },
+      "count": 4
+    },
+    "trans_colors": [
+      "trans_brown",
+      "trans_dark_blue"
+    ]
+  },
+  {
+    "design_id": 32316,
+    "name_en": "Technic 5M Beam",
+    "name_zh": "科技梁 5M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 5,
+    "recipe": {
+      "shaped": [
+        "TT"
+      ],
+      "key": {
+        "T": 32523
+      }
+    },
+    "trans_colors": [
+      "trans_brown",
+      "trans_dark_blue"
+    ]
+  },
+  {
+    "design_id": 32524,
+    "name_en": "Technic 7M Beam",
+    "name_zh": "科技梁 7M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 7,
+    "recipe": {
+      "shaped": [
+        "FT"
+      ],
+      "key": {
+        "F": 32316,
+        "T": 43857
+      }
+    },
+    "trans_colors": [
+      "trans_brown",
+      "trans_neon_green",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 64289,
+    "name_en": "Technic 9M Beam",
+    "name_zh": "科技梁 9M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 9,
+    "recipe": {
+      "shaped": [
+        "FF"
+      ],
+      "key": {
+        "F": 32316
+      }
+    }
+  },
+  {
+    "design_id": 64290,
+    "name_en": "Technic 11M Beam",
+    "name_zh": "科技梁 11M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 11,
+    "recipe": {
+      "shaped": [
+        "NT"
+      ],
+      "key": {
+        "N": 64289,
+        "T": 43857
+      }
+    }
+  },
+  {
+    "design_id": 41239,
+    "name_en": "Technic 13M Beam",
+    "name_zh": "科技梁 13M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 13,
+    "recipe": {
+      "shaped": [
+        "ET"
+      ],
+      "key": {
+        "E": 64290,
+        "T": 43857
+      }
+    }
+  },
+  {
+    "design_id": 64871,
+    "name_en": "Technic 15M Beam",
+    "name_zh": "科技梁 15M",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 15,
+    "recipe": {
+      "shaped": [
+        "HT"
+      ],
+      "key": {
+        "H": 41239,
+        "T": 43857
+      }
+    }
+  },
+  {
+    "design_id": 61332,
+    "name_en": "Connector Peg with Friction",
+    "name_zh": "带摩擦连接销",
+    "kind": "pin",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        "minecraft:iron_nugget",
+        "minecraft:clay_ball",
+        "dye"
+      ],
+      "count": 8
+    }
+  },
+  {
+    "design_id": 3673,
+    "name_en": "Connector Peg",
+    "name_zh": "连接销",
+    "kind": "pin",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        61332,
+        "minecraft:paper"
+      ]
+    }
+  },
+  {
+    "design_id": 42924,
+    "name_en": "Connector Peg with Friction 3M",
+    "name_zh": "带摩擦连接销 3M",
+    "kind": "pin",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        61332,
+        61332
+      ]
+    }
+  },
+  {
+    "design_id": 39888,
+    "name_en": "3M Connector Peg",
+    "name_zh": "连接销 3M",
+    "kind": "pin",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        3673,
+        3673
+      ]
+    }
+  },
+  {
+    "design_id": 43093,
+    "name_en": "Connector Peg with Friction / Cross Axle",
+    "name_zh": "带摩擦连接销/十字轴",
+    "kind": "axle_pin",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        61332,
+        32062
+      ]
+    }
+  },
+  {
+    "design_id": 6562,
+    "name_en": "Connector Peg / Cross Axle",
+    "name_zh": "连接销/十字轴",
+    "kind": "axle_pin",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3673,
+        32062
+      ]
+    }
+  },
+  {
+    "design_id": 32062,
+    "name_en": "2M Cross Axle with Groove",
+    "name_zh": "十字轴 2M（带槽）",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        4519
+      ]
+    }
+  },
+  {
+    "design_id": 4519,
+    "name_en": "Cross Axle 3M",
+    "name_zh": "十字轴 3M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        "minecraft:iron_nugget",
+        "minecraft:iron_nugget",
+        "dye"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "design_id": 3705,
+    "name_en": "Cross Axle 4M",
+    "name_zh": "十字轴 4M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        32062,
+        32062
+      ]
+    }
+  },
+  {
+    "design_id": 32073,
+    "name_en": "Cross Axle 5M",
+    "name_zh": "十字轴 5M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 5,
+    "recipe": {
+      "shapeless": [
+        4519,
+        32062
+      ]
+    }
+  },
+  {
+    "design_id": 3706,
+    "name_en": "Cross Axle 6M",
+    "name_zh": "十字轴 6M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 6,
+    "recipe": {
+      "shapeless": [
+        4519,
+        4519
+      ]
+    }
+  },
+  {
+    "design_id": 44294,
+    "name_en": "Cross Axle 7M",
+    "name_zh": "十字轴 7M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 7,
+    "recipe": {
+      "shapeless": [
+        3705,
+        4519
+      ]
+    }
+  },
+  {
+    "design_id": 3707,
+    "name_en": "Cross Axle 8M",
+    "name_zh": "十字轴 8M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 8,
+    "recipe": {
+      "shapeless": [
+        3705,
+        3705
+      ]
+    }
+  },
+  {
+    "design_id": 60485,
+    "name_en": "Cross Axle 9M",
+    "name_zh": "十字轴 9M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 9,
+    "recipe": {
+      "shapeless": [
+        3706,
+        4519
+      ]
+    }
+  },
+  {
+    "design_id": 3737,
+    "name_en": "Cross Axle 10M",
+    "name_zh": "十字轴 10M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 10,
+    "recipe": {
+      "shapeless": [
+        3707,
+        32062
+      ]
+    }
+  },
+  {
+    "design_id": 23948,
+    "name_en": "Cross Axle 11M",
+    "name_zh": "十字轴 11M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 11,
+    "recipe": {
+      "shapeless": [
+        3707,
+        4519
+      ]
+    }
+  },
+  {
+    "design_id": 3708,
+    "name_en": "Cross Axle 12M",
+    "name_zh": "十字轴 12M",
+    "kind": "axle",
+    "studs_x": 1,
+    "studs_z": 12,
+    "recipe": {
+      "shapeless": [
+        3706,
+        3706
+      ]
+    }
+  },
+  {
+    "design_id": 42798,
+    "name_en": "Bush for Cross Axle",
+    "name_zh": "十字轴轴套",
+    "kind": "bush",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        4519,
+        "minecraft:clay_ball"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "design_id": 42136,
+    "name_en": "1/2 Bush",
+    "name_zh": "半轴套",
+    "kind": "half_bush",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        42798
+      ],
+      "count": 2
+    }
+  },
+  {
+    "design_id": 10928,
+    "name_en": "Gear Wheel Z8",
+    "name_zh": "齿轮 8 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 8,
+    "recipe": {
+      "shaped": [
+        " N ",
+        "NDN",
+        " N "
+      ],
+      "key": {
+        "N": "minecraft:iron_nugget",
+        "D": "dye"
+      },
+      "count": 2
+    }
+  },
+  {
+    "design_id": 69778,
+    "name_en": "Gear Wheel Z12",
+    "name_zh": "齿轮 12 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 12,
+    "recipe": {
+      "shapeless": [
+        10928,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 94925,
+    "name_en": "Gear Wheel Z16",
+    "name_zh": "齿轮 16 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 16,
+    "recipe": {
+      "shapeless": [
+        69778,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 69779,
+    "name_en": "Gear Wheel Z20",
+    "name_zh": "齿轮 20 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 20,
+    "recipe": {
+      "shapeless": [
+        94925,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 24505,
+    "name_en": "Gear Wheel Z24",
+    "name_zh": "齿轮 24 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 24,
+    "recipe": {
+      "shapeless": [
+        69779,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 34432,
+    "name_en": "Gear Wheel 40T",
+    "name_zh": "齿轮 40 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 40,
+    "recipe": {
+      "shapeless": [
+        24505,
+        24505
+      ]
+    }
+  },
+  {
+    "design_id": 32270,
+    "name_en": "Double Conical Wheel Z12 1M",
+    "name_zh": "双锥齿轮 12 齿",
+    "kind": "double_gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 12,
+    "recipe": {
+      "shapeless": [
+        69778,
+        "minecraft:copper_ingot"
+      ]
+    }
+  },
+  {
+    "design_id": 18575,
+    "name_en": "Double Conical Wheel Z20 1M",
+    "name_zh": "双锥齿轮 20 齿",
+    "kind": "double_gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 20,
+    "recipe": {
+      "shapeless": [
+        69779,
+        "minecraft:copper_ingot"
+      ]
+    }
+  },
+  {
+    "design_id": 32498,
+    "name_en": "Double Conical Wheel Z36",
+    "name_zh": "双锥齿轮 36 齿",
+    "kind": "double_gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "teeth": 36,
+    "recipe": {
+      "shapeless": [
+        24505,
+        69778,
+        "minecraft:copper_ingot"
+      ]
+    }
+  },
+  {
+    "design_id": 6111,
+    "name_en": "Brick 1×10",
+    "name_zh": "砖 1×10",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "QQD"
+      ],
+      "key": {
+        "Q": 3010,
+        "D": 3004
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 6112,
+    "name_en": "Brick 1×12",
+    "name_zh": "砖 1×12",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "QQQ"
+      ],
+      "key": {
+        "Q": 3010
+      }
+    }
+  },
+  {
+    "design_id": 2465,
+    "name_en": "Brick 1×16",
+    "name_zh": "砖 1×16",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "EE"
+      ],
+      "key": {
+        "E": 3008
+      }
+    }
+  },
+  {
+    "design_id": 3006,
+    "name_en": "Brick 2×10",
+    "name_zh": "砖 2×10",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "XD"
+      ],
+      "key": {
+        "X": 3007,
+        "D": 3003
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 2356,
+    "name_en": "Brick 4×6",
+    "name_zh": "砖 4×6",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "S",
+        "S"
+      ],
+      "key": {
+        "S": 2456
+      }
+    }
+  },
+  {
+    "design_id": 6212,
+    "name_en": "Brick 4×10",
+    "name_zh": "砖 4×10",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 3006
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 4202,
+    "name_en": "Brick 4×12",
+    "name_zh": "砖 4×12",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "SS",
+        "SS"
+      ],
+      "key": {
+        "S": 2456
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_dark_blue",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 30400,
+    "name_en": "Brick 4×18",
+    "name_zh": "砖 4×18",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 18,
+    "recipe": {
+      "shaped": [
+        "NNN"
+      ],
+      "key": {
+        "N": 2356
+      }
+    }
+  },
+  {
+    "design_id": 4201,
+    "name_en": "Brick 8×8",
+    "name_zh": "砖 8×8",
+    "kind": "brick",
+    "studs_x": 8,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "FF",
+        "FF"
+      ],
+      "key": {
+        "F": 3007
+      }
+    }
+  },
+  {
+    "design_id": 4204,
+    "name_en": "Brick 8×16",
+    "name_zh": "砖 8×16",
+    "kind": "brick",
+    "studs_x": 8,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "E",
+        "E"
+      ],
+      "key": {
+        "E": 4201
+      }
+    }
+  },
+  {
+    "design_id": 3245,
+    "name_en": "Brick 1×2×2",
+    "name_zh": "砖 1×2×2",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "D",
+        "D"
+      ],
+      "key": {
+        "D": 3004
+      }
+    },
+    "height": 6
+  },
+  {
+    "design_id": 14716,
+    "name_en": "Brick 1×1×3",
+    "name_zh": "砖 1×1×3",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shaped": [
+        "B",
+        "B",
+        "B"
+      ],
+      "key": {
+        "B": 3005
+      }
+    },
+    "height": 9
+  },
+  {
+    "design_id": 22886,
+    "name_en": "Brick 1×2×3",
+    "name_zh": "砖 1×2×3",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "D",
+        "D",
+        "D"
+      ],
+      "key": {
+        "D": 3004
+      }
+    },
+    "height": 9
+  },
+  {
+    "design_id": 49311,
+    "name_en": "Brick 1×4×3",
+    "name_zh": "砖 1×4×3",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "Q",
+        "Q",
+        "Q"
+      ],
+      "key": {
+        "Q": 3010
+      }
+    },
+    "height": 9
+  },
+  {
+    "design_id": 30145,
+    "name_en": "Brick 2×2×3",
+    "name_zh": "砖 2×2×3",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "S",
+        "S",
+        "S"
+      ],
+      "key": {
+        "S": 3003
+      }
+    },
+    "height": 9
+  },
+  {
+    "design_id": 30144,
+    "name_en": "Brick 2×4×3",
+    "name_zh": "砖 2×4×3",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "F",
+        "F",
+        "F"
+      ],
+      "key": {
+        "F": 3001
+      }
+    },
+    "height": 9
+  },
+  {
+    "design_id": 6213,
+    "name_en": "Brick 2×6×3",
+    "name_zh": "砖 2×6×3",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "S",
+        "S",
+        "S"
+      ],
+      "key": {
+        "S": 2456
+      }
+    },
+    "height": 9
+  },
+  {
+    "design_id": 2453,
+    "name_en": "Brick 1×1×5",
+    "name_zh": "砖 1×1×5",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shaped": [
+        "T",
+        "B",
+        "B"
+      ],
+      "key": {
+        "T": 14716,
+        "B": 3005
+      }
+    },
+    "height": 15
+  },
+  {
+    "design_id": 2454,
+    "name_en": "Brick 1×2×5",
+    "name_zh": "砖 1×2×5",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "T",
+        "D",
+        "D"
+      ],
+      "key": {
+        "T": 22886,
+        "D": 3004
+      }
+    },
+    "height": 15,
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3755,
+    "name_en": "Brick 1×3×5",
+    "name_zh": "砖 1×3×5",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        3622,
+        3622,
+        3622,
+        3622,
+        3622
+      ]
+    },
+    "height": 15
+  },
+  {
+    "design_id": 3754,
+    "name_en": "Brick 1×6×5",
+    "name_zh": "砖 1×6×5",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "SSS"
+      ],
+      "key": {
+        "S": 2454
+      }
+    },
+    "height": 15,
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 78329,
+    "name_en": "Plate 1×5",
+    "name_zh": "板 1×5",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 5,
+    "recipe": {
+      "shaped": [
+        "QP"
+      ],
+      "key": {
+        "Q": 3710,
+        "P": 3024
+      }
+    }
+  },
+  {
+    "design_id": 4477,
+    "name_en": "Plate 1×10",
+    "name_zh": "板 1×10",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "QQD"
+      ],
+      "key": {
+        "Q": 3710,
+        "D": 3023
+      }
+    }
+  },
+  {
+    "design_id": 60479,
+    "name_en": "Plate 1×12",
+    "name_zh": "板 1×12",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "QQQ"
+      ],
+      "key": {
+        "Q": 3710
+      }
+    }
+  },
+  {
+    "design_id": 11212,
+    "name_en": "Plate 3×3",
+    "name_zh": "板 3×3",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "PPP",
+        "PPP",
+        "PPP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    }
+  },
+  {
+    "design_id": 3832,
+    "name_en": "Plate 2×10",
+    "name_zh": "板 2×10",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "XD"
+      ],
+      "key": {
+        "X": 3034,
+        "D": 3022
+      }
+    }
+  },
+  {
+    "design_id": 2445,
+    "name_en": "Plate 2×12",
+    "name_zh": "板 2×12",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "SS"
+      ],
+      "key": {
+        "S": 3795
+      }
+    }
+  },
+  {
+    "design_id": 91988,
+    "name_en": "Plate 2×14",
+    "name_zh": "板 2×14",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 14,
+    "recipe": {
+      "shaped": [
+        "XS"
+      ],
+      "key": {
+        "X": 3034,
+        "S": 3795
+      }
+    }
+  },
+  {
+    "design_id": 4282,
+    "name_en": "Plate 2×16",
+    "name_zh": "板 2×16",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "XX"
+      ],
+      "key": {
+        "X": 3034
+      }
+    },
+    "trans_colors": [
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 3032,
+    "name_en": "Plate 4×6",
+    "name_zh": "板 4×6",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "S",
+        "S"
+      ],
+      "key": {
+        "S": 3795
+      }
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 3035,
+    "name_en": "Plate 4×8",
+    "name_zh": "板 4×8",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "X",
+        "X"
+      ],
+      "key": {
+        "X": 3034
+      }
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_dark_blue",
+      "trans_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 83496,
+    "name_en": "Tile 4×8 Inverted",
+    "name_zh": "倒置光面砖 4×8",
+    "kind": "plate",
+    "studs_x": 8,
+    "studs_z": 4,
+    "smooth_bottom": true,
+    "recipe": {
+      "shapeless": [
+        3035,
+        "minecraft:paper"
+      ]
+    },
+    "open_studs": true
+  },
+  {
+    "design_id": 3030,
+    "name_en": "Plate 4×10",
+    "name_zh": "板 4×10",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 3832
+      }
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_dark_blue",
+      "trans_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3029,
+    "name_en": "Plate 4×12",
+    "name_zh": "板 4×12",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 2445
+      }
+    }
+  },
+  {
+    "design_id": 3036,
+    "name_en": "Plate 6×8",
+    "name_zh": "板 6×8",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "X",
+        "X",
+        "X"
+      ],
+      "key": {
+        "X": 3034
+      }
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3033,
+    "name_en": "Plate 6×10",
+    "name_zh": "板 6×10",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 10,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 3832
+      }
+    },
+    "trans_colors": [
+      "trans_neon_green",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 3028,
+    "name_en": "Plate 6×12",
+    "name_zh": "板 6×12",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 12,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 2445
+      }
+    }
+  },
+  {
+    "design_id": 3456,
+    "name_en": "Plate 6×14",
+    "name_zh": "板 6×14",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 14,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 91988
+      }
+    }
+  },
+  {
+    "design_id": 3027,
+    "name_en": "Plate 6×16",
+    "name_zh": "板 6×16",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "T",
+        "T",
+        "T"
+      ],
+      "key": {
+        "T": 4282
+      }
+    }
+  },
+  {
+    "design_id": 3026,
+    "name_en": "Plate 6×24",
+    "name_zh": "板 6×24",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 24,
+    "recipe": {
+      "shaped": [
+        "FFF"
+      ],
+      "key": {
+        "F": 3036
+      }
+    }
+  },
+  {
+    "design_id": 41539,
+    "name_en": "Plate 8×8",
+    "name_zh": "板 8×8",
+    "kind": "plate",
+    "studs_x": 8,
+    "studs_z": 8,
+    "recipe": {
+      "shaped": [
+        "F",
+        "F"
+      ],
+      "key": {
+        "F": 3035
+      }
+    },
+    "trans_colors": [
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 92438,
+    "name_en": "Plate 8×16",
+    "name_zh": "板 8×16",
+    "kind": "plate",
+    "studs_x": 8,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "E",
+        "E"
+      ],
+      "key": {
+        "E": 41539
+      }
+    }
+  },
+  {
+    "design_id": 91405,
+    "name_en": "Plate 16×16",
+    "name_zh": "板 16×16",
+    "kind": "plate",
+    "studs_x": 16,
+    "studs_z": 16,
+    "recipe": {
+      "shaped": [
+        "EE",
+        "EE"
+      ],
+      "key": {
+        "E": 41539
+      }
+    }
+  },
+  {
+    "design_id": 63864,
+    "name_en": "Tile 1×3",
+    "name_zh": "光面砖 1×3",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        3623
+      ]
+    }
+  },
+  {
+    "design_id": 6636,
+    "name_en": "Tile 1×6",
+    "name_zh": "光面砖 1×6",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 6,
+    "recipe": {
+      "shapeless": [
+        3666
+      ]
+    },
+    "trans_colors": [
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 4162,
+    "name_en": "Tile 1×8",
+    "name_zh": "光面砖 1×8",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 8,
+    "recipe": {
+      "shapeless": [
+        3460
+      ]
+    },
+    "trans_colors": [
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 26603,
+    "name_en": "Tile 2×3",
+    "name_zh": "光面砖 2×3",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        3021
+      ]
+    }
+  },
+  {
+    "design_id": 30350,
+    "name_en": "Tile 2×3 with 2 Clips Horizontal",
+    "name_zh": "带双水平夹光面砖 2×3",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 3,
+    "aliases": [
+      65886
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      },
+      {
+        "at": [
+          9,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ],
+      [
+        8,
+        0,
+        -1,
+        10,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        26603,
+        "minecraft:tripwire_hook",
+        "minecraft:tripwire_hook"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_light_blue",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 69729,
+    "name_en": "Tile 2×6",
+    "name_zh": "光面砖 2×6",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 6,
+    "recipe": {
+      "shapeless": [
+        3795
+      ]
+    }
+  },
+  {
+    "design_id": 10202,
+    "name_en": "Tile 6×6",
+    "name_zh": "光面砖 6×6",
+    "kind": "tile",
+    "studs_x": 6,
+    "studs_z": 6,
+    "recipe": {
+      "shapeless": [
+        3958
+      ]
+    }
+  },
+  {
+    "design_id": 90498,
+    "name_en": "Tile 8×16",
+    "name_zh": "光面砖 8×16",
+    "kind": "tile",
+    "studs_x": 8,
+    "studs_z": 16,
+    "recipe": {
+      "shapeless": [
+        92438
+      ]
+    }
+  },
+  {
+    "design_id": 3941,
+    "name_en": "Round Brick 2×2",
+    "name_zh": "圆砖 2×2",
+    "kind": "round_brick",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "RR",
+        "RR"
+      ],
+      "key": {
+        "R": 3062
+      }
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 87081,
+    "name_en": "Round Brick 4×4",
+    "name_zh": "圆砖 4×4",
+    "kind": "round_brick",
+    "studs_x": 4,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "XX",
+        "XX"
+      ],
+      "key": {
+        "X": 3941
+      }
+    }
+  },
+  {
+    "design_id": 4032,
+    "name_en": "Round Plate 2×2",
+    "name_zh": "圆板 2×2",
+    "kind": "round_plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "RR",
+        "RR"
+      ],
+      "key": {
+        "R": 4073
+      }
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3567,
+    "name_en": "Tile Round 2×2 Inverted",
+    "name_zh": "倒置圆形光面砖 2×2",
+    "kind": "round_plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "smooth_bottom": true,
+    "recipe": {
+      "shapeless": [
+        4032,
+        "minecraft:paper"
+      ]
+    },
+    "open_studs": true
+  },
+  {
+    "design_id": 60474,
+    "name_en": "Round Plate 4×4",
+    "name_zh": "圆板 4×4",
+    "kind": "round_plate",
+    "studs_x": 4,
+    "studs_z": 4,
+    "recipe": {
+      "shaped": [
+        "XX",
+        "XX"
+      ],
+      "key": {
+        "X": 4032
+      }
+    }
+  },
+  {
+    "design_id": 11213,
+    "name_en": "Round Plate 6×6",
+    "name_zh": "圆板 6×6",
+    "kind": "round_plate",
+    "studs_x": 6,
+    "studs_z": 6,
+    "recipe": {
+      "shaped": [
+        "XXX",
+        "XXX",
+        "XXX"
+      ],
+      "key": {
+        "X": 4032
+      }
+    }
+  },
+  {
+    "design_id": 98138,
+    "name_en": "Round Tile 1×1",
+    "name_zh": "圆形光面砖 1×1",
+    "kind": "round_tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        4073
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_yellow",
+      "trans_orange",
+      "opal_trans_clear",
+      "opal_trans_light_blue",
+      "opal_trans_purple"
+    ]
+  },
+  {
+    "design_id": 14769,
+    "name_en": "Round Tile 2×2",
+    "name_zh": "圆形光面砖 2×2",
+    "kind": "round_tile",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        4032
+      ]
+    }
+  },
+  {
+    "design_id": 4286,
+    "name_en": "Slope 33° 3×1",
+    "name_zh": "斜面砖 33° 3×1",
+    "kind": "slope",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "B  ",
+        "BBB"
+      ],
+      "key": {
+        "B": 3005
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3298,
+    "name_en": "Slope 33° 3×2",
+    "name_zh": "斜面砖 33° 3×2",
+    "kind": "slope",
+    "studs_x": 2,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "D  ",
+        "DDD"
+      ],
+      "key": {
+        "D": 3004
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 4161,
+    "name_en": "Slope 33° 3×3",
+    "name_zh": "斜面砖 33° 3×3",
+    "kind": "slope",
+    "studs_x": 3,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "T  ",
+        "TTT"
+      ],
+      "key": {
+        "T": 3622
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 3297,
+    "name_en": "Slope 33° 3×4",
+    "name_zh": "斜面砖 33° 3×4",
+    "kind": "slope",
+    "studs_x": 4,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "Q  ",
+        "QQQ"
+      ],
+      "key": {
+        "Q": 3010
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 60477,
+    "name_en": "Slope 18° 4×1",
+    "name_zh": "斜面砖 18° 4×1",
+    "kind": "slope",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        4286,
+        3024
+      ]
+    }
+  },
+  {
+    "design_id": 30363,
+    "name_en": "Slope 18° 4×2",
+    "name_zh": "斜面砖 18° 4×2",
+    "kind": "slope",
+    "studs_x": 2,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        3298,
+        3023
+      ]
+    }
+  },
+  {
+    "design_id": 60481,
+    "name_en": "Slope 65° 2×1×2",
+    "name_zh": "斜面砖 65° 2×1×2",
+    "kind": "slope",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3040,
+        3040
+      ]
+    },
+    "height": 6
+  },
+  {
+    "design_id": 4460,
+    "name_en": "Slope 75° 2×1×3",
+    "name_zh": "斜面砖 75° 2×1×3",
+    "kind": "slope",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3040,
+        3040,
+        3040
+      ]
+    },
+    "height": 9
+  },
+  {
+    "design_id": 3684,
+    "name_en": "Slope 75° 2×2×3",
+    "name_zh": "斜面砖 75° 2×2×3",
+    "kind": "slope",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        3039,
+        3039,
+        3039
+      ]
+    },
+    "height": 9
+  },
+  {
+    "design_id": 3665,
+    "name_en": "Slope Inverted 45° 2×1",
+    "name_zh": "反斜面砖 45° 2×1",
+    "kind": "inverted_slope",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "BB",
+        "B "
+      ],
+      "key": {
+        "B": 3005
+      },
+      "count": 2
+    }
+  },
+  {
+    "design_id": 3660,
+    "name_en": "Slope Inverted 45° 2×2",
+    "name_zh": "反斜面砖 45° 2×2",
+    "kind": "inverted_slope",
+    "studs_x": 2,
+    "studs_z": 2,
+    "recipe": {
+      "shaped": [
+        "DD",
+        "D "
+      ],
+      "key": {
+        "D": 3004
+      },
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 3747,
+    "name_en": "Slope Inverted 33° 3×2",
+    "name_zh": "反斜面砖 33° 3×2",
+    "kind": "inverted_slope",
+    "studs_x": 2,
+    "studs_z": 3,
+    "recipe": {
+      "shaped": [
+        "DDD",
+        "D  "
+      ],
+      "key": {
+        "D": 3004
+      },
+      "count": 2
+    }
+  },
+  {
+    "design_id": 54200,
+    "name_en": "Slope 30° 1×1×2/3",
+    "name_zh": "小斜面砖 30° 1×1×2/3",
+    "kind": "cheese_slope",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3024,
+        3070
+      ],
+      "count": 2
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 85984,
+    "name_en": "Slope 30° 1×2×2/3",
+    "name_zh": "小斜面砖 30° 1×2×2/3",
+    "kind": "cheese_slope",
+    "studs_x": 2,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3023,
+        3069
+      ],
+      "count": 2
+    }
+  },
+  {
+    "design_id": 18654,
+    "name_en": "Technic Beam 1M",
+    "name_zh": "科技梁 1 孔",
+    "kind": "beam",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        43857
+      ],
+      "count": 2
+    }
+  },
+  {
+    "design_id": 2780,
+    "name_en": "Connector Peg with Friction",
+    "name_zh": "带摩擦科技销",
+    "kind": "pin",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        61332,
+        "minecraft:string"
+      ]
+    }
+  },
+  {
+    "design_id": 6558,
+    "name_en": "Connector Peg with Friction 3M",
+    "name_zh": "带摩擦科技销 3M",
+    "kind": "pin",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        2780,
+        2780
+      ]
+    }
+  },
+  {
+    "design_id": 3749,
+    "name_en": "Axle Pin",
+    "name_zh": "轴销",
+    "kind": "axle_pin",
+    "studs_x": 1,
+    "studs_z": 2,
+    "recipe": {
+      "shapeless": [
+        4519,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 3713,
+    "name_en": "Bush for Cross Axle",
+    "name_zh": "十字轴套",
+    "kind": "bush",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        4519,
+        "minecraft:iron_nugget",
+        "minecraft:iron_nugget"
+      ],
+      "count": 4
+    }
+  },
+  {
+    "design_id": 32123,
+    "name_en": "1/2 Bush",
+    "name_zh": "半轴套",
+    "kind": "half_bush",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3713
+      ],
+      "count": 2
+    }
+  },
+  {
+    "design_id": 6589,
+    "name_en": "Bevel Gear 12T",
+    "name_zh": "锥齿轮 12 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        10928,
+        "minecraft:flint"
+      ]
+    },
+    "teeth": 12
+  },
+  {
+    "design_id": 32198,
+    "name_en": "Bevel Gear 20T",
+    "name_zh": "锥齿轮 20 齿",
+    "kind": "gear",
+    "studs_x": 1,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        6589,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "teeth": 20
+  },
+  {
+    "design_id": 2420,
+    "name_en": "Plate 2×2 Corner",
+    "name_zh": "角板 2×2（L形）",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shaped": [
+        "P ",
+        "PP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    }
+  },
+  {
+    "design_id": 2639,
+    "name_en": "Plate 4×4 Corner",
+    "name_zh": "角板 4×4（L形）",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 4,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          0,
+          4
+        ]
+      ]
+    ],
+    "recipe": {
+      "shaped": [
+        "P ",
+        "PP"
+      ],
+      "key": {
+        "P": 3022
+      }
+    }
+  },
+  {
+    "design_id": 2357,
+    "name_en": "Brick 2×2 Corner",
+    "name_zh": "角砖 2×2（L形）",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3003,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_purple",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 26601,
+    "name_en": "Wedge Plate 2×2 Cut Corner",
+    "name_zh": "切角楔形板 2×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3022,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 2450,
+    "name_en": "Wedge Plate 3×3 Cut Corner",
+    "name_zh": "切角楔形板 3×3",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 3,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        11212,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_dark_blue",
+      "trans_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 30503,
+    "name_en": "Wedge Plate 4×4 Cut Corner",
+    "name_zh": "切角楔形板 4×4",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 4,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          0,
+          4
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3031,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 43722,
+    "name_en": "Wedge Plate 3×2 Right",
+    "name_zh": "楔形板 3×2 右",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 3,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3021,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 43723,
+    "name_en": "Wedge Plate 3×2 Left",
+    "name_zh": "楔形板 3×2 左",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 3,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        43722
+      ]
+    }
+  },
+  {
+    "design_id": 41769,
+    "name_en": "Wedge Plate 4×2 Right",
+    "name_zh": "楔形板 4×2 右",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 4,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          0,
+          4
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3020,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 41770,
+    "name_en": "Wedge Plate 4×2 Left",
+    "name_zh": "楔形板 4×2 左",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 4,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        41769
+      ]
+    }
+  },
+  {
+    "design_id": 54383,
+    "name_en": "Wedge Plate 6×3 Right",
+    "name_zh": "楔形板 6×3 右",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 6,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          6
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3021,
+        3021,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 54384,
+    "name_en": "Wedge Plate 6×3 Left",
+    "name_zh": "楔形板 6×3 左",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 6,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          2,
+          6
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        54383
+      ]
+    }
+  },
+  {
+    "design_id": 35787,
+    "name_en": "Tile 2×2 Triangular",
+    "name_zh": "三角平滑砖 2×2",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3068,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 27925,
+    "name_en": "Tile 2×2 Round Corner",
+    "name_zh": "圆角平滑砖 2×2",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2.0,
+          0.0
+        ],
+        [
+          1.97538,
+          0.31287
+        ],
+        [
+          1.90211,
+          0.61803
+        ],
+        [
+          1.78201,
+          0.90798
+        ],
+        [
+          1.61803,
+          1.17557
+        ],
+        [
+          1.41421,
+          1.41421
+        ],
+        [
+          1.17557,
+          1.61803
+        ],
+        [
+          0.90798,
+          1.78201
+        ],
+        [
+          0.61803,
+          1.90211
+        ],
+        [
+          0.31287,
+          1.97538
+        ],
+        [
+          0.0,
+          2.0
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3068,
+        "minecraft:flint",
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 30357,
+    "name_en": "Plate 3×3 Round Corner",
+    "name_zh": "圆角板 3×3",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 3,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          3.0,
+          0.0
+        ],
+        [
+          2.96307,
+          0.4693
+        ],
+        [
+          2.85317,
+          0.92705
+        ],
+        [
+          2.67302,
+          1.36197
+        ],
+        [
+          2.42705,
+          1.76336
+        ],
+        [
+          2.12132,
+          2.12132
+        ],
+        [
+          1.76336,
+          2.42705
+        ],
+        [
+          1.36197,
+          2.67302
+        ],
+        [
+          0.92705,
+          2.85317
+        ],
+        [
+          0.4693,
+          2.96307
+        ],
+        [
+          0.0,
+          3.0
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        11212,
+        "minecraft:flint",
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 30565,
+    "name_en": "Plate 4×4 Round Corner",
+    "name_zh": "圆角板 4×4",
+    "kind": "plate",
+    "studs_x": 4,
+    "studs_z": 4,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          4.0,
+          0.0
+        ],
+        [
+          3.95075,
+          0.62574
+        ],
+        [
+          3.80423,
+          1.23607
+        ],
+        [
+          3.56403,
+          1.81596
+        ],
+        [
+          3.23607,
+          2.35114
+        ],
+        [
+          2.82843,
+          2.82843
+        ],
+        [
+          2.35114,
+          3.23607
+        ],
+        [
+          1.81596,
+          3.56403
+        ],
+        [
+          1.23607,
+          3.80423
+        ],
+        [
+          0.62574,
+          3.95075
+        ],
+        [
+          0.0,
+          4.0
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3031,
+        "minecraft:flint",
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 44728,
+    "name_en": "Bracket 1×2 - 2×2",
+    "name_zh": "支架 1×2-2×2",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 2,
+      "height": 2,
+      "plates": 5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3023,
+        3022
+      ]
+    },
+    "trans_colors": [
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 99207,
+    "name_en": "Bracket 1×2 - 2×2 Inverted",
+    "name_zh": "倒置支架 1×2-2×2",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 2,
+      "height": 2,
+      "inverted": true,
+      "plates": 5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        44728
+      ]
+    }
+  },
+  {
+    "design_id": 99781,
+    "name_en": "Bracket 1×2 - 1×2",
+    "name_zh": "支架 1×2-1×2",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 2,
+      "height": 1,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3023,
+        3023,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 99780,
+    "name_en": "Bracket 1×2 - 1×2 Inverted",
+    "name_zh": "倒置支架 1×2-1×2",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 2,
+      "height": 1,
+      "inverted": true,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        99781
+      ]
+    }
+  },
+  {
+    "design_id": 3956,
+    "name_en": "Bracket 2×2 - 2×2 Up",
+    "name_zh": "支架 2×2-2×2（朝上）",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 2,
+    "bracket": {
+      "width": 2,
+      "height": 2,
+      "inverted": true,
+      "plates": 6,
+      "thickness": 1,
+      "first_stud": 2.25
+    },
+    "recipe": {
+      "shapeless": [
+        3022,
+        3022,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 2436,
+    "name_en": "Bracket 1×2 - 1×4",
+    "name_zh": "支架 1×2-1×4",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 4,
+      "height": 1,
+      "x0": -1,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3023,
+        3710,
+        "minecraft:flint"
+      ]
+    },
+    "aliases": [
+      10201,
+      28802
+    ]
+  },
+  {
+    "design_id": 87087,
+    "name_en": "Brick 1×1 with Stud on Side",
+    "name_zh": "侧面带凸点砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "side_studs": true,
+    "recipe": {
+      "shapeless": [
+        3005,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 47905,
+    "name_en": "Brick 1×1 with Studs on 2 Opposite Sides",
+    "name_zh": "两对面带凸点砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "south"
+    ],
+    "recipe": {
+      "shapeless": [
+        87087,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 4733,
+    "name_en": "Brick 1×1 with Studs on 4 Sides",
+    "name_zh": "四面带凸点砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "recipe": {
+      "shapeless": [
+        47905,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_green"
+    ]
+  },
+  {
+    "design_id": 11211,
+    "name_en": "Brick 1×2 with 2 Studs on Side",
+    "name_zh": "侧面带凸点砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "side_studs": true,
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 52107,
+    "name_en": "Brick 1×2 with Studs on 2 Sides",
+    "name_zh": "两面带凸点砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "south"
+    ],
+    "recipe": {
+      "shapeless": [
+        11211,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 86876,
+    "name_en": "Brick 1×2 with Centre Stud on Side",
+    "name_zh": "侧面中心带凸点砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "side_studs": [
+      [
+        1.0,
+        1.5
+      ]
+    ],
+    "aliases": [
+      7133
+    ],
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:stone_button"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 30414,
+    "name_en": "Brick 1×4 with 4 Studs on Side",
+    "name_zh": "侧面带凸点砖 1×4",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 1,
+    "side_studs": true,
+    "recipe": {
+      "shapeless": [
+        3010,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 2434,
+    "name_en": "Brick 2×4×2 with Studs on Sides",
+    "name_zh": "侧面带凸点砖 2×4×2",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 2,
+    "height": 6,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "south"
+    ],
+    "recipe": {
+      "shapeless": [
+        3001,
+        3001,
+        "minecraft:flint",
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_purple",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 15573,
+    "name_en": "Plate 1×2 with 1 Stud (Jumper)",
+    "name_zh": "跳板 1×2（中心 1 凸点）",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "studs": [
+      [
+        0.5,
+        1.0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:stick"
+      ]
+    },
+    "aliases": [
+      3794
+    ],
+    "trans_colors": [
+      "trans_clear",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 34103,
+    "name_en": "Plate 1×3 with 2 Studs (Jumper)",
+    "name_zh": "跳板 1×3（2 凸点）",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 3,
+    "studs": [
+      [
+        0.5,
+        1.0
+      ],
+      [
+        0.5,
+        2.0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3623,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 87580,
+    "name_en": "Plate 2×2 with Center Stud (Jumper)",
+    "name_zh": "跳板 2×2（中心凸点）",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "studs": [
+      [
+        1.0,
+        1.0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3022,
+        "minecraft:stick"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 3131,
+    "name_en": "Panel 2×2×1 Corner Posts with Centre Stud",
+    "name_zh": "四角立柱面板 2×2×1（中心凸点）",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "studs": [
+      [
+        1.0,
+        1.0
+      ]
+    ],
+    "boxes": [
+      [
+        0,
+        2,
+        0,
+        1,
+        6,
+        1
+      ],
+      [
+        1,
+        2,
+        0,
+        3,
+        6,
+        0.5
+      ],
+      [
+        0,
+        2,
+        1,
+        0.5,
+        6,
+        3
+      ],
+      [
+        11,
+        2,
+        0,
+        12,
+        6,
+        1
+      ],
+      [
+        9,
+        2,
+        0,
+        11,
+        6,
+        0.5
+      ],
+      [
+        11.5,
+        2,
+        1,
+        12,
+        6,
+        3
+      ],
+      [
+        0,
+        2,
+        11,
+        1,
+        6,
+        12
+      ],
+      [
+        1,
+        2,
+        11.5,
+        3,
+        6,
+        12
+      ],
+      [
+        0,
+        2,
+        9,
+        0.5,
+        6,
+        11
+      ],
+      [
+        11,
+        2,
+        11,
+        12,
+        6,
+        12
+      ],
+      [
+        9,
+        2,
+        11.5,
+        11,
+        6,
+        12
+      ],
+      [
+        11.5,
+        2,
+        9,
+        12,
+        6,
+        11
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        87580,
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 18674,
+    "name_en": "Plate Round 2×2 with Center Stud",
+    "name_zh": "圆跳板 2×2（中心凸点）",
+    "kind": "round_plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "studs": [
+      [
+        1.0,
+        1.0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        4032,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 41740,
+    "name_en": "Plate 1×4 with 2 Studs",
+    "name_zh": "板 1×4（两端 2 凸点）",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 4,
+    "studs": [
+      [
+        0.5,
+        0.5
+      ],
+      [
+        0.5,
+        3.5
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3710,
+        "minecraft:stick"
+      ]
+    },
+    "aliases": [
+      92593
+    ]
+  },
+  {
+    "design_id": 2412,
+    "name_en": "Tile 1×2 Grille",
+    "name_zh": "格栅平滑砖 1×2",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 2,
+    "grille": "top",
+    "recipe": {
+      "shapeless": [
+        3069,
+        "minecraft:iron_bars"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 2877,
+    "name_en": "Brick 1×2 with Grille",
+    "name_zh": "格栅砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "grille": "side",
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:iron_bars"
+      ]
+    }
+  },
+  {
+    "design_id": 85861,
+    "name_en": "Plate Round 1×1 with Open Stud",
+    "name_zh": "圆板 1×1（空心凸点）",
+    "kind": "round_plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        4073,
+        "minecraft:stick"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_light_blue",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 24246,
+    "name_en": "Tile Round 1×1 Half Circle",
+    "name_zh": "半圆平滑砖 1×1",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0.0,
+          0.5
+        ],
+        [
+          0.017,
+          0.3706
+        ],
+        [
+          0.067,
+          0.25
+        ],
+        [
+          0.1464,
+          0.1464
+        ],
+        [
+          0.25,
+          0.067
+        ],
+        [
+          0.3706,
+          0.017
+        ],
+        [
+          0.5,
+          0.0
+        ],
+        [
+          0.6294,
+          0.017
+        ],
+        [
+          0.75,
+          0.067
+        ],
+        [
+          0.8536,
+          0.1464
+        ],
+        [
+          0.933,
+          0.25
+        ],
+        [
+          0.983,
+          0.3706
+        ],
+        [
+          1.0,
+          0.5
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3070,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_black",
+      "trans_red",
+      "trans_light_blue",
+      "trans_green",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 25269,
+    "name_en": "Tile Round 1×1 Quarter",
+    "name_zh": "四分之一圆平滑砖 1×1",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.98769,
+          0.15643
+        ],
+        [
+          0.95106,
+          0.30902
+        ],
+        [
+          0.89101,
+          0.45399
+        ],
+        [
+          0.80902,
+          0.58779
+        ],
+        [
+          0.70711,
+          0.70711
+        ],
+        [
+          0.58779,
+          0.80902
+        ],
+        [
+          0.45399,
+          0.89101
+        ],
+        [
+          0.30902,
+          0.95106
+        ],
+        [
+          0.15643,
+          0.98769
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3070,
+        "minecraft:flint",
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "opal_trans_light_blue",
+      "opal_trans_purple"
+    ]
+  },
+  {
+    "design_id": 1748,
+    "name_en": "Tile Round 1×2 Half Circle",
+    "name_zh": "半圆平滑砖 1×2",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0.0,
+          1.0
+        ],
+        [
+          0.0341,
+          0.7412
+        ],
+        [
+          0.134,
+          0.5
+        ],
+        [
+          0.2929,
+          0.2929
+        ],
+        [
+          0.5,
+          0.134
+        ],
+        [
+          0.7412,
+          0.0341
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.2588,
+          0.0341
+        ],
+        [
+          1.5,
+          0.134
+        ],
+        [
+          1.7071,
+          0.2929
+        ],
+        [
+          1.866,
+          0.5
+        ],
+        [
+          1.9659,
+          0.7412
+        ],
+        [
+          2.0,
+          1.0
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3069,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red"
+    ]
+  },
+  {
+    "design_id": 1745,
+    "name_en": "Plate Round 1×2 Half Circle with Stud",
+    "name_zh": "半圆跳板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0.0,
+          1.0
+        ],
+        [
+          0.0341,
+          0.7412
+        ],
+        [
+          0.134,
+          0.5
+        ],
+        [
+          0.2929,
+          0.2929
+        ],
+        [
+          0.5,
+          0.134
+        ],
+        [
+          0.7412,
+          0.0341
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.2588,
+          0.0341
+        ],
+        [
+          1.5,
+          0.134
+        ],
+        [
+          1.7071,
+          0.2929
+        ],
+        [
+          1.866,
+          0.5
+        ],
+        [
+          1.9659,
+          0.7412
+        ],
+        [
+          2.0,
+          1.0
+        ]
+      ]
+    ],
+    "studs": [
+      [
+        1.0,
+        0.5
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:flint",
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 65092,
+    "name_en": "Gem 8-Sided 1×1×½",
+    "name_zh": "八面宝石 1×1×½",
+    "kind": "gem",
+    "studs_x": 1,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0.95,
+          0.6864
+        ],
+        [
+          0.6864,
+          0.95
+        ],
+        [
+          0.3136,
+          0.95
+        ],
+        [
+          0.05,
+          0.6864
+        ],
+        [
+          0.05,
+          0.3136
+        ],
+        [
+          0.3136,
+          0.05
+        ],
+        [
+          0.6864,
+          0.05
+        ],
+        [
+          0.95,
+          0.3136
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        4073,
+        "minecraft:glass_pane",
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "opal_trans_clear",
+      "opal_trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 30153,
+    "name_en": "Jewel 1×1 24 Facet",
+    "name_zh": "圆宝石 1×1",
+    "kind": "gem",
+    "studs_x": 1,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0.95,
+          0.6206
+        ],
+        [
+          0.8294,
+          0.8294
+        ],
+        [
+          0.6206,
+          0.95
+        ],
+        [
+          0.3794,
+          0.95
+        ],
+        [
+          0.1706,
+          0.8294
+        ],
+        [
+          0.05,
+          0.6206
+        ],
+        [
+          0.05,
+          0.3794
+        ],
+        [
+          0.1706,
+          0.1706
+        ],
+        [
+          0.3794,
+          0.05
+        ],
+        [
+          0.6206,
+          0.05
+        ],
+        [
+          0.8294,
+          0.1706
+        ],
+        [
+          0.95,
+          0.3794
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        4073,
+        "minecraft:glass_pane",
+        "minecraft:glass_pane"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 60478,
+    "name_en": "Plate 1×2 with Handle on End",
+    "name_zh": "末端带把手板 1×2",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "bars": [
+      {
+        "from": [
+          0,
+          1,
+          -3
+        ],
+        "to": [
+          6,
+          1,
+          -3
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        0,
+        0,
+        -4,
+        1,
+        2,
+        0
+      ],
+      [
+        5,
+        0,
+        -4,
+        6,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:lever"
+      ]
+    }
+  },
+  {
+    "design_id": 63868,
+    "name_en": "Plate 1×2 with Clip Horizontal on End",
+    "name_zh": "末端带水平夹板 1×2",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "clips": [
+      {
+        "at": [
+          3,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:tripwire_hook"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 61252,
+    "name_en": "Plate 1×1 with Clip Horizontal (Thick Open O-Clip)",
+    "name_zh": "带水平夹板 1×1（粗O形夹）",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3024,
+        "minecraft:tripwire_hook"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 6019,
+    "name_en": "Plate 1×1 with Clip Horizontal",
+    "name_zh": "带水平夹板 1×1",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        61252
+      ]
+    }
+  },
+  {
+    "design_id": 11476,
+    "name_en": "Plate 1×2 with Clip Horizontal on Side",
+    "name_zh": "侧面带水平夹板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          6,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        5,
+        0,
+        -1,
+        7,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        63868
+      ]
+    }
+  },
+  {
+    "design_id": 60470,
+    "name_en": "Plate 1×2 with 2 Clips Horizontal",
+    "name_zh": "带双水平夹板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      },
+      {
+        "at": [
+          9,
+          1.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ],
+      [
+        8,
+        0,
+        -1,
+        10,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:tripwire_hook",
+        "minecraft:tripwire_hook"
+      ]
+    }
+  },
+  {
+    "design_id": 60897,
+    "name_en": "Plate 1×1 with Clip Vertical",
+    "name_zh": "带垂直夹板 1×1",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          1,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3024,
+        "minecraft:tripwire_hook",
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 4081,
+    "name_en": "Plate 1×1 with Clip Light (Ring)",
+    "name_zh": "带环形夹板 1×1",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          2,
+          -3
+        ],
+        "axis": "x"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3024,
+        "minecraft:chain"
+      ]
+    }
+  },
+  {
+    "design_id": 60475,
+    "name_en": "Brick 1×1 with Clip Vertical",
+    "name_zh": "带垂直夹砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "open_studs": true,
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        2,
+        -1,
+        4,
+        4,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3005,
+        "minecraft:tripwire_hook"
+      ]
+    }
+  },
+  {
+    "design_id": 60476,
+    "name_en": "Brick 1×1 with Clip Horizontal",
+    "name_zh": "带水平夹砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          3.5,
+          -3
+        ],
+        "axis": "x",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        2.5,
+        -1,
+        4,
+        4.5,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        60475
+      ]
+    }
+  },
+  {
+    "design_id": 30237,
+    "name_en": "Brick 1×2 with Clip Vertical",
+    "name_zh": "带垂直夹砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          6,
+          3,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        5,
+        2,
+        -1,
+        7,
+        4,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:tripwire_hook"
+      ]
+    }
+  },
+  {
+    "design_id": 48336,
+    "name_en": "Plate 1×2 with Handle Type 2",
+    "name_zh": "带长把手板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          0,
+          1,
+          -3
+        ],
+        "to": [
+          12,
+          1,
+          -3
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        0,
+        0,
+        -4,
+        1,
+        2,
+        0
+      ],
+      [
+        11,
+        0,
+        -4,
+        12,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:lever",
+        "minecraft:lever"
+      ]
+    }
+  },
+  {
+    "design_id": 2540,
+    "name_en": "Plate 1×2 with Handle",
+    "name_zh": "带把手板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          0,
+          1,
+          -3
+        ],
+        "to": [
+          12,
+          1,
+          -3
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        3,
+        0,
+        -4,
+        4,
+        2,
+        0
+      ],
+      [
+        8,
+        0,
+        -4,
+        9,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        48336
+      ]
+    }
+  },
+  {
+    "design_id": 30236,
+    "name_en": "Brick 1×2 with Handle",
+    "name_zh": "带把手砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          0,
+          3,
+          -3
+        ],
+        "to": [
+          12,
+          3,
+          -3
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        3,
+        2,
+        -4,
+        4,
+        4,
+        0
+      ],
+      [
+        8,
+        2,
+        -4,
+        9,
+        4,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:lever"
+      ]
+    }
+  },
+  {
+    "design_id": 2921,
+    "name_en": "Brick 1×1 with Handle",
+    "name_zh": "带竖把手砖 1×1",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          -3
+        ],
+        "to": [
+          3,
+          6,
+          -3
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -4,
+        4,
+        1,
+        0
+      ],
+      [
+        2,
+        5,
+        -4,
+        4,
+        6,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3005,
+        "minecraft:lever"
+      ]
+    }
+  },
+  {
+    "design_id": 3839,
+    "name_en": "Plate 1×2 with Handles",
+    "name_zh": "两侧带把手板 1×2",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          -2,
+          1,
+          -6
+        ],
+        "to": [
+          -2,
+          1,
+          6
+        ]
+      },
+      {
+        "from": [
+          14,
+          1,
+          -6
+        ],
+        "to": [
+          14,
+          1,
+          6
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        -1,
+        0,
+        0,
+        0,
+        2,
+        6
+      ],
+      [
+        12,
+        0,
+        0,
+        13,
+        2,
+        6
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        2540,
+        "minecraft:lever"
+      ]
+    },
+    "trans_colors": [
+      "trans_green",
+      "trans_neon_green"
+    ]
+  },
+  {
+    "design_id": 2432,
+    "name_en": "Tile 1×2 with Handle",
+    "name_zh": "带把手平滑砖 1×2",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 2,
+    "bars": [
+      {
+        "from": [
+          3,
+          7,
+          0
+        ],
+        "to": [
+          3,
+          7,
+          12
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        2,
+        0,
+        4,
+        8,
+        1
+      ],
+      [
+        2,
+        2,
+        11,
+        4,
+        8,
+        12
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3069,
+        "minecraft:lever"
+      ]
+    },
+    "trans_colors": [
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 26047,
+    "name_en": "Round Plate 1×1 with Handle",
+    "name_zh": "带把手圆板 1×1",
+    "kind": "round_plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          0,
+          1,
+          -3
+        ],
+        "to": [
+          6,
+          1,
+          -3
+        ]
+      }
+    ],
+    "boxes": [
+      [
+        0,
+        0,
+        -4,
+        1,
+        2,
+        1
+      ],
+      [
+        5,
+        0,
+        -4,
+        6,
+        2,
+        1
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        4073,
+        "minecraft:lever"
+      ]
+    }
+  },
+  {
+    "design_id": 15712,
+    "name_en": "Tile 1×1 with Clip (Thick C-Clip)",
+    "name_zh": "带夹平滑砖 1×1（粗C形夹）",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          3
+        ],
+        "axis": "z",
+        "open": "up"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        3070,
+        "minecraft:tripwire_hook"
+      ]
+    }
+  },
+  {
+    "design_id": 2555,
+    "name_en": "Tile 1×1 with Clip",
+    "name_zh": "带夹平滑砖 1×1",
+    "kind": "tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          3
+        ],
+        "axis": "z",
+        "open": "up"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        15712
+      ]
+    },
+    "aliases": [
+      12825
+    ]
+  },
+  {
+    "design_id": 87994,
+    "name_en": "Bar 3L",
+    "name_zh": "杆 3L",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 3,
+    "recipe": {
+      "shapeless": [
+        "minecraft:stick",
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_red",
+      "trans_purple",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_neon_green"
+    ]
+  },
+  {
+    "design_id": 30374,
+    "name_en": "Bar 4L",
+    "name_zh": "杆 4L",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 4,
+    "recipe": {
+      "shapeless": [
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_red",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_medium_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 63965,
+    "name_en": "Bar 6L with Stop Ring",
+    "name_zh": "带挡环杆 6L",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 6,
+    "bars": [
+      {
+        "from": [
+          3,
+          1.8333333333333333,
+          0
+        ],
+        "to": [
+          3,
+          1.8333333333333333,
+          36
+        ]
+      },
+      {
+        "from": [
+          3,
+          1.8333333333333333,
+          5
+        ],
+        "to": [
+          3,
+          1.8333333333333333,
+          7
+        ],
+        "r": 1.6875,
+        "grip": false
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 11090,
+    "name_en": "Bar Holder with Clip",
+    "name_zh": "带夹杆座",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          2,
+          3
+        ],
+        "axis": "y",
+        "half": 2
+      },
+      {
+        "at": [
+          3,
+          6,
+          3
+        ],
+        "axis": "x",
+        "open": "up"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        "minecraft:tripwire_hook",
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 78256,
+    "name_en": "Plate 1×2 with Clip Vertical on End",
+    "name_zh": "末端带垂直夹板 1×2",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "clips": [
+      {
+        "at": [
+          3,
+          1,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:tripwire_hook",
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 92280,
+    "name_en": "Plate 1×2 with Clip on Top",
+    "name_zh": "顶部带夹板 1×2",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "studs": [
+      [
+        0.5,
+        0.5
+      ]
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          9
+        ],
+        "axis": "x",
+        "open": "up"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        "minecraft:tripwire_hook",
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 44861,
+    "name_en": "Plate 1×2 with Clip on Top (Thick C-Clip)",
+    "name_zh": "顶部带夹板 1×2（粗C形夹）",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 2,
+    "studs": [
+      [
+        0.5,
+        0.5
+      ]
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          9
+        ],
+        "axis": "x",
+        "open": "up"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        92280
+      ]
+    }
+  },
+  {
+    "design_id": 4085,
+    "name_en": "Plate 1×1 with Clip Vertical (Thick U-Clip)",
+    "name_zh": "带垂直夹板 1×1（U形夹）",
+    "kind": "plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "clips": [
+      {
+        "at": [
+          3,
+          1,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        0,
+        -1,
+        4,
+        2,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        60897
+      ]
+    }
+  },
+  {
+    "design_id": 60583,
+    "name_en": "Brick 1×1×3 with 2 Clips Vertical",
+    "name_zh": "双垂直夹砖 1×1×3",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 9,
+    "open_studs": true,
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      },
+      {
+        "at": [
+          3,
+          15,
+          -3
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "boxes": [
+      [
+        2,
+        2,
+        -1,
+        4,
+        4,
+        0
+      ],
+      [
+        2,
+        14,
+        -1,
+        4,
+        16,
+        0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3005,
+        3005,
+        3005,
+        "minecraft:tripwire_hook",
+        "minecraft:tripwire_hook"
+      ]
+    }
+  },
+  {
+    "design_id": 30136,
+    "name_en": "Brick 1×2 Palisade (Log)",
+    "name_zh": "原木砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "profile": "log",
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:oak_log"
+      ]
+    }
+  },
+  {
+    "design_id": 30137,
+    "name_en": "Brick 1×4 Palisade (Log)",
+    "name_zh": "原木砖 1×4",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 1,
+    "profile": "log",
+    "recipe": {
+      "shapeless": [
+        3010,
+        "minecraft:oak_log"
+      ]
+    },
+    "trans_colors": [
+      "trans_dark_blue",
+      "trans_neon_green"
+    ]
+  },
+  {
+    "design_id": 98283,
+    "name_en": "Brick 1×2 with Masonry Profile",
+    "name_zh": "砌石纹砖 1×2",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "profile": "masonry",
+    "recipe": {
+      "shapeless": [
+        3004,
+        "minecraft:brick"
+      ]
+    }
+  },
+  {
+    "design_id": 15533,
+    "name_en": "Brick 1×4 with Masonry Profile",
+    "name_zh": "砌石纹砖 1×4",
+    "kind": "brick",
+    "studs_x": 4,
+    "studs_z": 1,
+    "profile": "masonry",
+    "recipe": {
+      "shapeless": [
+        3010,
+        "minecraft:brick"
+      ]
+    }
+  },
+  {
+    "design_id": 3678,
+    "name_en": "Slope 65° 2×2×2",
+    "name_zh": "斜面砖 65° 2×2×2",
+    "kind": "slope",
+    "studs_x": 2,
+    "studs_z": 2,
+    "height": 6,
+    "recipe": {
+      "shapeless": [
+        3039,
+        3039
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 4865,
+    "name_en": "Panel 1×2×1 with Rounded Corners",
+    "name_zh": "面板 1×2×1（圆角）",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        3069,
+        3069
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 23950,
+    "name_en": "Panel 1×3×1 with Rounded Corners",
+    "name_zh": "面板 1×3×1",
+    "kind": "wall_panel",
+    "studs_x": 3,
+    "studs_z": 1,
+    "recipe": {
+      "shapeless": [
+        63864,
+        63864
+      ]
+    }
+  },
+  {
+    "design_id": 15207,
+    "name_en": "Panel 1×4×1 with Rounded Corners (Thin Wall)",
+    "name_zh": "面板 1×4×1（薄墙）",
+    "kind": "wall_panel",
+    "studs_x": 4,
+    "studs_z": 1,
+    "panel": {
+      "wall": 3
+    },
+    "recipe": {
+      "shapeless": [
+        2431,
+        2431
+      ]
+    },
+    "trans_colors": [
+      "trans_black",
+      "trans_brown",
+      "trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 30413,
+    "name_en": "Panel 1×4×1 with Rounded Corners (Thick Wall)",
+    "name_zh": "面板 1×4×1（厚墙）",
+    "kind": "wall_panel",
+    "studs_x": 4,
+    "studs_z": 1,
+    "aliases": [
+      43337
+    ],
+    "recipe": {
+      "shapeless": [
+        15207
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 6231,
+    "name_en": "Panel 1×1×1 Corner",
+    "name_zh": "转角面板 1×1×1",
+    "kind": "wall_panel",
+    "studs_x": 1,
+    "studs_z": 1,
+    "panel": {
+      "left": true
+    },
+    "recipe": {
+      "shapeless": [
+        3024,
+        3070,
+        3070
+      ]
+    }
+  },
+  {
+    "design_id": 91501,
+    "name_en": "Panel 2×2×1 Corner",
+    "name_zh": "转角面板 2×2×1",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 2,
+    "panel": {
+      "left": true
+    },
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        4865,
+        4865,
+        6231
+      ]
+    }
+  },
+  {
+    "design_id": 23969,
+    "name_en": "Panel 1×2×1 with 2 Sides",
+    "name_zh": "双侧面板 1×2×1",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "panel": {
+      "left": true,
+      "right": true
+    },
+    "recipe": {
+      "shapeless": [
+        4865,
+        3024
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 93095,
+    "name_en": "Panel 1×2×1 with Central Divider",
+    "name_zh": "带中隔板面板 1×2×1",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "panel": {
+      "divider": true
+    },
+    "recipe": {
+      "shapeless": [
+        4865,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 4864,
+    "name_en": "Panel 1×2×2 with Hollow Studs",
+    "name_zh": "面板 1×2×2",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 6,
+    "panel": {
+      "rim": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        4865,
+        4865
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_bright_green"
+    ]
+  },
+  {
+    "design_id": 87552,
+    "name_en": "Panel 1×2×2 with Side Supports",
+    "name_zh": "带侧撑面板 1×2×2",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 6,
+    "panel": {
+      "rim": true,
+      "left": true,
+      "right": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        4864,
+        3024
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_purple",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_yellow"
+    ]
+  },
+  {
+    "design_id": 2362,
+    "name_en": "Panel 1×2×3 with Hollow Studs",
+    "name_zh": "面板 1×2×3",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 9,
+    "panel": {
+      "rim": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        4864,
+        4865
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_purple",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_green",
+      "trans_neon_green"
+    ]
+  },
+  {
+    "design_id": 87544,
+    "name_en": "Panel 1×2×3 with Side Supports",
+    "name_zh": "带侧撑面板 1×2×3",
+    "kind": "wall_panel",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 9,
+    "panel": {
+      "rim": true,
+      "left": true,
+      "right": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        2362,
+        3024
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_dark_pink",
+      "trans_purple",
+      "trans_light_blue",
+      "trans_bright_green",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 14718,
+    "name_en": "Panel 1×4×2 with Side Supports",
+    "name_zh": "带侧撑面板 1×4×2",
+    "kind": "wall_panel",
+    "studs_x": 4,
+    "studs_z": 1,
+    "height": 6,
+    "panel": {
+      "rim": true,
+      "left": true,
+      "right": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        15207,
+        15207,
+        3024
+      ]
+    }
+  },
+  {
+    "design_id": 4215,
+    "name_en": "Panel 1×4×3 with Hollow Studs",
+    "name_zh": "面板 1×4×3",
+    "kind": "wall_panel",
+    "studs_x": 4,
+    "studs_z": 1,
+    "height": 9,
+    "panel": {
+      "rim": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        15207,
+        15207,
+        15207
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_dark_blue",
+      "trans_light_blue",
+      "trans_neon_green"
+    ]
+  },
+  {
+    "design_id": 60581,
+    "name_en": "Panel 1×4×3 with Side Supports",
+    "name_zh": "带侧撑面板 1×4×3",
+    "kind": "wall_panel",
+    "studs_x": 4,
+    "studs_z": 1,
+    "height": 9,
+    "panel": {
+      "rim": true,
+      "left": true,
+      "right": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        4215,
+        3024
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_brown",
+      "trans_red",
+      "trans_light_blue",
+      "trans_yellow",
+      "opal_trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 59349,
+    "name_en": "Panel 1×6×5",
+    "name_zh": "面板 1×6×5",
+    "kind": "wall_panel",
+    "studs_x": 6,
+    "studs_z": 1,
+    "height": 15,
+    "panel": {
+      "rim": true
+    },
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        4215,
+        4215
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_purple",
+      "trans_light_blue",
+      "trans_orange",
+      "opal_trans_clear"
+    ]
+  },
+  {
+    "design_id": 22885,
+    "name_en": "Brick 1×2×1⅔ with 4 Studs on Side",
+    "name_zh": "侧面带4凸点砖 1×2×1⅔",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 5,
+    "side_studs": true,
+    "recipe": {
+      "shapeless": [
+        11211,
+        3023
+      ]
+    }
+  },
+  {
+    "design_id": 32952,
+    "name_en": "Brick 1×1×1⅔ with 2 Studs on Side",
+    "name_zh": "侧面带2凸点砖 1×1×1⅔",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 5,
+    "side_studs": true,
+    "recipe": {
+      "shapeless": [
+        87087,
+        3024
+      ]
+    }
+  },
+  {
+    "design_id": 4304,
+    "name_en": "Plate 2×2×⅔ with 2 Studs on Side and Raised Row",
+    "name_zh": "侧面带2凸点台阶板 2×2×⅔",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "studs": [
+      [
+        0.5,
+        0.5,
+        2
+      ],
+      [
+        1.5,
+        0.5,
+        2
+      ],
+      [
+        0.5,
+        1.5
+      ],
+      [
+        1.5,
+        1.5
+      ]
+    ],
+    "boxes": [
+      [
+        0,
+        2,
+        0,
+        12,
+        4,
+        6
+      ]
+    ],
+    "side_studs": [
+      1.25
+    ],
+    "aliases": [
+      99206
+    ],
+    "recipe": {
+      "shapeless": [
+        3022,
+        11211
+      ]
+    }
+  },
+  {
+    "design_id": 15068,
+    "name_en": "Slope Curved 2×2×⅔",
+    "name_zh": "曲面斜坡砖 2×2×⅔",
+    "kind": "curved_slope",
+    "studs_x": 2,
+    "studs_z": 2,
+    "row_bottoms": [
+      0,
+      1
+    ],
+    "recipe": {
+      "shapeless": [
+        3022,
+        3068
+      ]
+    }
+  },
+  {
+    "design_id": 36841,
+    "name_en": "Bracket 1×1 - 1×1",
+    "name_zh": "支架 1×1-1×1",
+    "kind": "bracket",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bracket": {
+      "width": 1,
+      "height": 1,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3024,
+        3024,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 36840,
+    "name_en": "Bracket 1×1 - 1×1 Inverted",
+    "name_zh": "倒置支架 1×1-1×1",
+    "kind": "bracket",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bracket": {
+      "width": 1,
+      "height": 1,
+      "inverted": true,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        36841
+      ]
+    }
+  },
+  {
+    "design_id": 79389,
+    "name_en": "Bracket 1×1 - 1×2",
+    "name_zh": "支架 1×1-1×2",
+    "kind": "bracket",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bracket": {
+      "width": 1,
+      "height": 2,
+      "plates": 5.0,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3024,
+        3023,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 73825,
+    "name_en": "Bracket 1×1 - 1×2 Inverted",
+    "name_zh": "倒置支架 1×1-1×2",
+    "kind": "bracket",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bracket": {
+      "width": 1,
+      "height": 2,
+      "inverted": true,
+      "plates": 5.0,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        79389
+      ]
+    }
+  },
+  {
+    "design_id": 11477,
+    "name_en": "Slope Curved 2×1",
+    "name_zh": "曲面斜坡砖 2×1",
+    "kind": "curved_slope",
+    "studs_x": 1,
+    "studs_z": 2,
+    "row_bottoms": [
+      0,
+      1
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        3070,
+        3070
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_black",
+      "trans_red",
+      "trans_light_blue",
+      "trans_green",
+      "trans_bright_green",
+      "trans_yellow",
+      "opal_trans_light_blue"
+    ]
+  },
+  {
+    "design_id": 50950,
+    "name_en": "Slope Curved 3×1",
+    "name_zh": "曲面斜坡砖 3×1",
+    "kind": "curved_slope",
+    "studs_x": 1,
+    "studs_z": 3,
+    "height": 3,
+    "row_bottoms": [
+      0,
+      0,
+      1
+    ],
+    "recipe": {
+      "shapeless": [
+        11477,
+        3024
+      ]
+    }
+  },
+  {
+    "design_id": 61678,
+    "name_en": "Slope Curved 4×1",
+    "name_zh": "曲面斜坡砖 4×1",
+    "kind": "curved_slope",
+    "studs_x": 1,
+    "studs_z": 4,
+    "height": 3,
+    "row_bottoms": [
+      0,
+      0,
+      1,
+      2
+    ],
+    "aliases": [
+      11153
+    ],
+    "recipe": {
+      "shapeless": [
+        50950,
+        3024
+      ]
+    }
+  },
+  {
+    "design_id": 93606,
+    "name_en": "Slope Curved 4×2",
+    "name_zh": "曲面斜坡砖 4×2",
+    "kind": "curved_slope",
+    "studs_x": 2,
+    "studs_z": 4,
+    "height": 3,
+    "row_bottoms": [
+      0,
+      0,
+      1,
+      2
+    ],
+    "recipe": {
+      "shapeless": [
+        61678,
+        61678
+      ]
+    }
+  },
+  {
+    "design_id": 87609,
+    "name_en": "Plate 2×6×⅔ with 4 Studs on Side and Raised Row",
+    "name_zh": "侧面带4凸点台阶板 2×6×⅔",
+    "kind": "plate",
+    "studs_x": 6,
+    "studs_z": 2,
+    "studs": [
+      [
+        0.5,
+        0.5
+      ],
+      [
+        1.5,
+        0.5,
+        2
+      ],
+      [
+        2.5,
+        0.5,
+        2
+      ],
+      [
+        3.5,
+        0.5,
+        2
+      ],
+      [
+        4.5,
+        0.5,
+        2
+      ],
+      [
+        5.5,
+        0.5
+      ],
+      [
+        0.5,
+        1.5
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        2.5,
+        1.5
+      ],
+      [
+        3.5,
+        1.5
+      ],
+      [
+        4.5,
+        1.5
+      ],
+      [
+        5.5,
+        1.5
+      ]
+    ],
+    "boxes": [
+      [
+        6,
+        2,
+        0,
+        30,
+        4,
+        6
+      ]
+    ],
+    "side_studs": [
+      [
+        1.5,
+        1.25
+      ],
+      [
+        2.5,
+        1.25
+      ],
+      [
+        3.5,
+        1.25
+      ],
+      [
+        4.5,
+        1.25
+      ]
+    ],
+    "aliases": [
+      72132
+    ],
+    "recipe": {
+      "shapeless": [
+        3795,
+        4304
+      ]
+    }
+  },
+  {
+    "design_id": 33909,
+    "name_en": "Plate 2×2 with 2 Studs on One Edge",
+    "name_zh": "板 2×2（单边 2 凸点）",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 2,
+    "studs": [
+      [
+        0.5,
+        1.5
+      ],
+      [
+        1.5,
+        1.5
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3022,
+        3069
+      ]
+    }
+  },
+  {
+    "design_id": 65509,
+    "name_en": "Plate 2×4 with 2 Studs (Jumper)",
+    "name_zh": "跳板 2×4（中线 2 凸点）",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 4,
+    "studs": [
+      [
+        1.0,
+        1.0
+      ],
+      [
+        1.0,
+        3.0
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3020,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 88646,
+    "name_en": "Plate 3×4 with 4 Studs in Centre",
+    "name_zh": "板 3×4（中间一排 4 凸点）",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 4,
+    "studs": [
+      [
+        1.5,
+        0.5
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        1.5,
+        2.5
+      ],
+      [
+        1.5,
+        3.5
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        3710,
+        2431,
+        2431
+      ]
+    },
+    "trans_colors": [
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 93274,
+    "name_en": "Bracket 1×2 - 2×4",
+    "name_zh": "支架 1×2-2×4",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 4,
+      "height": 2,
+      "x0": -1,
+      "plates": 5.0,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3023,
+        3020,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 6970,
+    "name_en": "Bracket 1×2 - 2×6",
+    "name_zh": "支架 1×2-2×6",
+    "kind": "bracket",
+    "studs_x": 2,
+    "studs_z": 1,
+    "bracket": {
+      "width": 6,
+      "height": 2,
+      "x0": -2,
+      "plates": 5.0,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3023,
+        3795,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 5175,
+    "name_en": "Bracket 2×4 - 1×4",
+    "name_zh": "支架 2×4-1×4",
+    "kind": "bracket",
+    "studs_x": 4,
+    "studs_z": 2,
+    "bracket": {
+      "width": 4,
+      "height": 1,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3020,
+        3710,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 64570,
+    "name_en": "Bracket 2×6 - 1×6 Inverted",
+    "name_zh": "倒置支架 2×6-1×6",
+    "kind": "bracket",
+    "studs_x": 6,
+    "studs_z": 2,
+    "bracket": {
+      "width": 6,
+      "height": 1,
+      "inverted": true,
+      "plates": 2.5,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3795,
+        3666,
+        "minecraft:flint",
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 5090,
+    "name_en": "Bracket 1×6 with 1×4 Cutout - 2×6 Inverted",
+    "name_zh": "倒置支架 1×6-2×6（中空）",
+    "kind": "bracket",
+    "studs_x": 6,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          5,
+          0
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          5,
+          1
+        ]
+      ]
+    ],
+    "bracket": {
+      "width": 6,
+      "height": 2,
+      "inverted": true,
+      "plates": 5.0,
+      "thickness": 0.5,
+      "first_stud": 1.25
+    },
+    "recipe": {
+      "shapeless": [
+        3666,
+        3795,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 4735,
+    "name_en": "Bar 1×3 with Clip and Anti-Stud",
+    "name_zh": "杆 1×3（夹子 + 反凸点）",
+    "kind": "round_plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "studs": [
+      [
+        0.5,
+        0.5,
+        2
+      ]
+    ],
+    "open_studs": true,
+    "bars": [
+      {
+        "from": [
+          3,
+          2,
+          3
+        ],
+        "to": [
+          3,
+          4,
+          3
+        ],
+        "r": 1.8,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          3,
+          1.2
+        ],
+        "to": [
+          3,
+          3,
+          -6
+        ]
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          3,
+          -9
+        ],
+        "axis": "y",
+        "open": "north"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        4073,
+        "minecraft:stick",
+        "minecraft:tripwire_hook"
+      ]
+    }
+  },
+  {
+    "design_id": 6190,
+    "name_en": "Bar 1×3 Radio Handle",
+    "name_zh": "杆 1×3（电话听筒）",
+    "kind": "tile",
+    "studs_x": 3,
+    "studs_z": 1,
+    "height": 2,
+    "shape": [
+      [
+        [
+          0.9,
+          0.5796
+        ],
+        [
+          0.8391,
+          0.7266
+        ],
+        [
+          0.7266,
+          0.8391
+        ],
+        [
+          0.5796,
+          0.9
+        ],
+        [
+          0.4204,
+          0.9
+        ],
+        [
+          0.2734,
+          0.8391
+        ],
+        [
+          0.1609,
+          0.7266
+        ],
+        [
+          0.1,
+          0.5796
+        ],
+        [
+          0.1,
+          0.4204
+        ],
+        [
+          0.1609,
+          0.2734
+        ],
+        [
+          0.2734,
+          0.1609
+        ],
+        [
+          0.4204,
+          0.1
+        ],
+        [
+          0.5796,
+          0.1
+        ],
+        [
+          0.7266,
+          0.1609
+        ],
+        [
+          0.8391,
+          0.2734
+        ],
+        [
+          0.9,
+          0.4204
+        ]
+      ],
+      [
+        [
+          2.9,
+          0.5796
+        ],
+        [
+          2.8391,
+          0.7266
+        ],
+        [
+          2.7266,
+          0.8391
+        ],
+        [
+          2.5796,
+          0.9
+        ],
+        [
+          2.4204,
+          0.9
+        ],
+        [
+          2.2734,
+          0.8391
+        ],
+        [
+          2.1609,
+          0.7266
+        ],
+        [
+          2.1,
+          0.5796
+        ],
+        [
+          2.1,
+          0.4204
+        ],
+        [
+          2.1609,
+          0.2734
+        ],
+        [
+          2.2734,
+          0.1609
+        ],
+        [
+          2.4204,
+          0.1
+        ],
+        [
+          2.5796,
+          0.1
+        ],
+        [
+          2.7266,
+          0.1609
+        ],
+        [
+          2.8391,
+          0.2734
+        ],
+        [
+          2.9,
+          0.4204
+        ]
+      ]
+    ],
+    "bars": [
+      {
+        "from": [
+          5,
+          3,
+          3
+        ],
+        "to": [
+          13,
+          3,
+          3
+        ]
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        4073,
+        4073,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 78258,
+    "name_en": "Bar 2L with Stop in Center",
+    "name_zh": "中间带挡杆 2L",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 2,
+    "bars": [
+      {
+        "from": [
+          3,
+          1.8333333333333333,
+          0
+        ],
+        "to": [
+          3,
+          1.8333333333333333,
+          12
+        ]
+      },
+      {
+        "from": [
+          3,
+          1.8333333333333333,
+          4.8
+        ],
+        "to": [
+          3,
+          1.8333333333333333,
+          7.2
+        ],
+        "r": 1.6875,
+        "grip": false
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        "minecraft:stick",
+        "minecraft:iron_nugget",
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 4095,
+    "name_en": "Bar 6.6L with Stop Ring (Umbrella Stand)",
+    "name_zh": "带挡环杆 6.6L（伞柄）",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 7,
+    "bars": [
+      {
+        "from": [
+          3,
+          1.8333333333333333,
+          0
+        ],
+        "to": [
+          3,
+          1.8333333333333333,
+          39.6
+        ]
+      },
+      {
+        "from": [
+          3,
+          1.8333333333333333,
+          3.6
+        ],
+        "to": [
+          3,
+          1.8333333333333333,
+          4.8
+        ],
+        "r": 1.6875,
+        "grip": false
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        63965,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 66909,
+    "name_en": "Weapon Hilt Symmetric (Bar 2L with Studs on Both Ends)",
+    "name_zh": "对称剑柄（两端凸点杆 2L）",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 5,
+    "studs": [
+      [
+        0.5,
+        0.5,
+        5
+      ],
+      [
+        0.5,
+        0.5,
+        0,
+        -1
+      ]
+    ],
+    "open_studs": true,
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          3
+        ],
+        "to": [
+          3,
+          1.5,
+          3
+        ],
+        "r": 1.8,
+        "grip": false,
+        "sides": 6
+      },
+      {
+        "from": [
+          3,
+          1.5,
+          3
+        ],
+        "to": [
+          3,
+          8.5,
+          3
+        ]
+      },
+      {
+        "from": [
+          3,
+          8.5,
+          3
+        ],
+        "to": [
+          3,
+          10,
+          3
+        ],
+        "r": 1.8,
+        "grip": false,
+        "sides": 6
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        87994,
+        4073,
+        4073
+      ]
+    }
+  },
+  {
+    "design_id": 37762,
+    "name_en": "Candlestick",
+    "name_zh": "烛台",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 4,
+    "bars": [
+      {
+        "from": [
+          3,
+          -1,
+          3
+        ],
+        "to": [
+          3,
+          0,
+          3
+        ]
+      },
+      {
+        "from": [
+          3,
+          0,
+          3
+        ],
+        "to": [
+          3,
+          5.5,
+          3
+        ],
+        "r": 2.175,
+        "grip": false
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          6.75,
+          3
+        ],
+        "axis": "y",
+        "half": 1.25,
+        "blind": true,
+        "outer": 2.175
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        3062,
+        "minecraft:iron_nugget"
+      ]
+    }
+  },
+  {
+    "design_id": 3957,
+    "name_en": "Antenna 1×4",
+    "name_zh": "天线 1×4",
+    "kind": "round_tile",
+    "studs_x": 1,
+    "studs_z": 1,
+    "bars": [
+      {
+        "from": [
+          3,
+          2,
+          3
+        ],
+        "to": [
+          3,
+          3,
+          3
+        ],
+        "r": 1.8,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          3,
+          3
+        ],
+        "to": [
+          3,
+          24,
+          3
+        ]
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        98138,
+        "minecraft:stick",
+        "minecraft:stick"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_brown",
+      "trans_red",
+      "trans_light_blue",
+      "trans_neon_green",
+      "trans_yellow",
+      "trans_orange",
+      "trans_neon_orange"
+    ]
+  },
+  {
+    "design_id": 48729,
+    "name_en": "Bar 1L with Clip",
+    "name_zh": "带夹子杆 1L",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 2,
+    "aliases": [
+      3484
+    ],
+    "bars": [
+      {
+        "from": [
+          3,
+          1,
+          4.4
+        ],
+        "to": [
+          3,
+          1,
+          11.6
+        ]
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          1,
+          2.2
+        ],
+        "axis": "y",
+        "open": "north",
+        "outer": 2.5
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        "minecraft:stick",
+        "minecraft:tripwire_hook"
+      ]
+    },
+    "trans_colors": [
+      "trans_neon_orange"
+    ],
+    "boxes": [
+      [
+        0.2,
+        0,
+        3.8,
+        5.8,
+        2,
+        5.2
+      ]
+    ]
+  },
+  {
+    "design_id": 4274,
+    "name_en": "Technic Pin 1/2",
+    "name_zh": "Technic 半销",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 3,
+    "aliases": [
+      89678
+    ],
+    "studs": [
+      [
+        0.5,
+        0.5,
+        2
+      ]
+    ],
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          3
+        ],
+        "to": [
+          3,
+          1,
+          3
+        ],
+        "r": 1.4
+      },
+      {
+        "from": [
+          3,
+          1,
+          3
+        ],
+        "to": [
+          3,
+          1.5,
+          3
+        ],
+        "r": 2.4,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          1.5,
+          3
+        ],
+        "to": [
+          3,
+          4,
+          3
+        ],
+        "r": 1.8,
+        "grip": false
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        3673,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 61184,
+    "name_en": "Technic Pin 1/2 with 2L Bar",
+    "name_zh": "Technic 半销带 2L 杆",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 8,
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          3
+        ],
+        "to": [
+          3,
+          1,
+          3
+        ],
+        "r": 1.4
+      },
+      {
+        "from": [
+          3,
+          1,
+          3
+        ],
+        "to": [
+          3,
+          1.5,
+          3
+        ],
+        "r": 2.4,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          1.5,
+          3
+        ],
+        "to": [
+          3,
+          6,
+          3
+        ],
+        "r": 1.8,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          6,
+          3
+        ],
+        "to": [
+          3,
+          16,
+          3
+        ]
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        4274,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 30377,
+    "name_en": "Mechanical Arm with 2 Clips (Battle Droid)",
+    "name_zh": "机械臂（战斗机器人，双夹子）",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 3,
+    "shape": [
+      [
+        [
+          0.2,
+          0.6667
+        ],
+        [
+          0.5333,
+          0.6667
+        ],
+        [
+          0.5333,
+          1.6
+        ],
+        [
+          0.2,
+          1.6
+        ]
+      ],
+      [
+        [
+          0.6,
+          1.73
+        ],
+        [
+          0.4633,
+          1.8667
+        ],
+        [
+          0.27,
+          1.8667
+        ],
+        [
+          0.1333,
+          1.73
+        ],
+        [
+          0.1333,
+          1.5367
+        ],
+        [
+          0.27,
+          1.4
+        ],
+        [
+          0.4633,
+          1.4
+        ],
+        [
+          0.6,
+          1.5367
+        ]
+      ],
+      [
+        [
+          0.4933,
+          1.525
+        ],
+        [
+          0.8767,
+          1.905
+        ],
+        [
+          0.6233,
+          2.1217
+        ],
+        [
+          0.24,
+          1.7417
+        ]
+      ]
+    ],
+    "clips": [
+      {
+        "at": [
+          2.2,
+          1,
+          2.2
+        ],
+        "axis": "y",
+        "open": "north"
+      },
+      {
+        "at": [
+          5.8,
+          1,
+          13.6
+        ],
+        "axis": "y",
+        "open": "east"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        48729,
+        48729
+      ]
+    }
+  },
+  {
+    "design_id": 59230,
+    "name_en": "Mechanical Arm Straight with 2 Clips at 90°",
+    "name_zh": "直机械臂（双夹子 90°）",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 3,
+    "height": 2,
+    "bars": [
+      {
+        "from": [
+          3,
+          2,
+          4.0
+        ],
+        "to": [
+          3,
+          2,
+          12.4
+        ],
+        "r": 1.0,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          2,
+          7.6
+        ],
+        "to": [
+          3,
+          2,
+          8.8
+        ],
+        "r": 1.4,
+        "grip": false
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          2,
+          2.2
+        ],
+        "axis": "y",
+        "open": "north"
+      },
+      {
+        "at": [
+          3,
+          2,
+          14.2
+        ],
+        "axis": "x",
+        "open": "south"
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        30377,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 53989,
+    "name_en": "Mechanical Arm with Clip and Rod Hole (Thin Forearm)",
+    "name_zh": "机械臂（夹子带杆孔，细前臂）",
+    "kind": "bar",
+    "studs_x": 2,
+    "studs_z": 3,
+    "height": 2,
+    "clips": [
+      {
+        "at": [
+          2.2,
+          1.8333333333333333,
+          2.2
+        ],
+        "axis": "y",
+        "open": "west"
+      },
+      {
+        "at": [
+          6.6,
+          1.8333333333333333,
+          12.6
+        ],
+        "axis": "z",
+        "half": 1.0,
+        "blind": true,
+        "open": "south"
+      }
+    ],
+    "boxes": [
+      [
+        3.2,
+        0.9333,
+        4.0,
+        4.0,
+        2.7333,
+        8.4
+      ],
+      [
+        4.0,
+        0.1,
+        8.2,
+        9.0,
+        3.6,
+        11.6
+      ],
+      [
+        4.0,
+        0.1,
+        11.6,
+        5.35,
+        3.6,
+        13.6
+      ],
+      [
+        7.85,
+        0.1,
+        11.6,
+        9.0,
+        3.6,
+        13.6
+      ],
+      [
+        5.35,
+        0.1,
+        11.6,
+        7.85,
+        0.5833,
+        13.6
+      ],
+      [
+        5.35,
+        3.0833,
+        11.6,
+        7.85,
+        3.6,
+        13.6
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        48729,
+        3005
+      ]
+    }
+  },
+  {
+    "design_id": 98313,
+    "name_en": "Mechanical Arm with Clip and Rod Hole (Thick Forearm)",
+    "name_zh": "机械臂（夹子带杆孔，粗前臂）",
+    "kind": "bar",
+    "studs_x": 2,
+    "studs_z": 3,
+    "height": 2,
+    "clips": [
+      {
+        "at": [
+          2.2,
+          1.8333333333333333,
+          2.2
+        ],
+        "axis": "y",
+        "open": "west"
+      },
+      {
+        "at": [
+          6.6,
+          1.8333333333333333,
+          12.6
+        ],
+        "axis": "z",
+        "half": 1.0,
+        "blind": true,
+        "open": "south"
+      }
+    ],
+    "boxes": [
+      [
+        2.8,
+        0.9333,
+        4.0,
+        4.4,
+        2.7333,
+        8.4
+      ],
+      [
+        4.0,
+        0.1,
+        8.2,
+        9.0,
+        3.6,
+        11.6
+      ],
+      [
+        4.0,
+        0.1,
+        11.6,
+        5.35,
+        3.6,
+        13.6
+      ],
+      [
+        7.85,
+        0.1,
+        11.6,
+        9.0,
+        3.6,
+        13.6
+      ],
+      [
+        5.35,
+        0.1,
+        11.6,
+        7.85,
+        0.5833,
+        13.6
+      ],
+      [
+        5.35,
+        3.0833,
+        11.6,
+        7.85,
+        3.6,
+        13.6
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        53989,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 32013,
+    "name_en": "Technic Angle Connector #1",
+    "name_zh": "Technic 角度连接器 #1",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 2,
+    "height": 3,
+    "receptors": [
+      [
+        0.5,
+        0.5,
+        0
+      ]
+    ],
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          3
+        ],
+        "to": [
+          3,
+          5,
+          3
+        ],
+        "r": 2.7,
+        "grip": false,
+        "hollow": true
+      },
+      {
+        "from": [
+          3,
+          2.5,
+          5.4
+        ],
+        "to": [
+          3,
+          2.5,
+          8.8
+        ],
+        "r": 2.6,
+        "grip": false
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          2.5,
+          10.4
+        ],
+        "axis": "z",
+        "half": 1.6,
+        "blind": true,
+        "open": "south",
+        "outer": 2.6
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        18654,
+        "minecraft:iron_nugget"
+      ]
+    },
+    "trans_colors": [
+      "trans_red"
+    ]
+  },
+  {
+    "design_id": 32014,
+    "name_en": "Technic Angle Connector #6 (90°)",
+    "name_zh": "Technic 角度连接器 #6（90°）",
+    "kind": "bar",
+    "studs_x": 2,
+    "studs_z": 2,
+    "height": 3,
+    "receptors": [
+      [
+        0.5,
+        0.5,
+        0
+      ]
+    ],
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          3
+        ],
+        "to": [
+          3,
+          5,
+          3
+        ],
+        "r": 2.7,
+        "grip": false,
+        "hollow": true
+      },
+      {
+        "from": [
+          3,
+          2.5,
+          5.4
+        ],
+        "to": [
+          3,
+          2.5,
+          8.8
+        ],
+        "r": 2.6,
+        "grip": false
+      },
+      {
+        "from": [
+          5.4,
+          2.5,
+          3
+        ],
+        "to": [
+          8.8,
+          2.5,
+          3
+        ],
+        "r": 2.6,
+        "grip": false
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          2.5,
+          10.4
+        ],
+        "axis": "z",
+        "half": 1.6,
+        "blind": true,
+        "open": "south",
+        "outer": 2.6
+      },
+      {
+        "at": [
+          10.4,
+          2.5,
+          3
+        ],
+        "axis": "x",
+        "half": 1.6,
+        "blind": true,
+        "open": "east",
+        "outer": 2.6
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        32013,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 32034,
+    "name_en": "Technic Angle Connector #2 (180°)",
+    "name_zh": "Technic 角度连接器 #2（180°）",
+    "kind": "bar",
+    "studs_x": 1,
+    "studs_z": 3,
+    "height": 3,
+    "receptors": [
+      [
+        0.5,
+        1.5,
+        0
+      ]
+    ],
+    "bars": [
+      {
+        "from": [
+          3,
+          0,
+          9
+        ],
+        "to": [
+          3,
+          5,
+          9
+        ],
+        "r": 2.7,
+        "grip": false,
+        "hollow": true
+      },
+      {
+        "from": [
+          3,
+          2.5,
+          11.4
+        ],
+        "to": [
+          3,
+          2.5,
+          14.8
+        ],
+        "r": 2.6,
+        "grip": false
+      },
+      {
+        "from": [
+          3,
+          2.5,
+          6.6
+        ],
+        "to": [
+          3,
+          2.5,
+          3.2
+        ],
+        "r": 2.6,
+        "grip": false
+      }
+    ],
+    "clips": [
+      {
+        "at": [
+          3,
+          2.5,
+          16.4
+        ],
+        "axis": "z",
+        "half": 1.6,
+        "blind": true,
+        "open": "south",
+        "outer": 2.6
+      },
+      {
+        "at": [
+          3,
+          2.5,
+          1.5999999999999996
+        ],
+        "axis": "z",
+        "half": 1.6,
+        "blind": true,
+        "open": "north",
+        "outer": 2.6
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        32013,
+        32013
+      ]
+    }
+  },
+  {
+    "design_id": 4595,
+    "name_en": "Brick 1×2×⅔ with Studs on Sides",
+    "name_zh": "多面凸点砖 1×2×⅔",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 2,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "south",
+      "east"
+    ],
+    "bars": [
+      {
+        "from": [
+          0,
+          2,
+          3
+        ],
+        "to": [
+          -2.4,
+          2,
+          3
+        ],
+        "r": 1.2,
+        "grip": false
+      },
+      {
+        "from": [
+          -2.4,
+          2,
+          3
+        ],
+        "to": [
+          -4.8,
+          2,
+          3
+        ],
+        "r": 2.6,
+        "grip": false,
+        "hollow": true
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        3023,
+        3023,
+        87087
+      ]
+    },
+    "open_studs": true
+  },
+  {
+    "design_id": 80796,
+    "name_en": "Brick 1×2×1⅔ with 8 Studs on 2 Sides",
+    "name_zh": "两侧带8凸点砖 1×2×1⅔",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 5,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "south"
+    ],
+    "recipe": {
+      "shapeless": [
+        22885,
+        "minecraft:flint"
+      ]
+    },
+    "trans_colors": [
+      "trans_clear",
+      "trans_orange"
+    ]
+  },
+  {
+    "design_id": 67329,
+    "name_en": "Brick 1×2×1⅔ with 8 Studs on 3 Sides",
+    "name_zh": "三面带8凸点砖 1×2×1⅔",
+    "kind": "brick",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 5,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "west",
+      "east"
+    ],
+    "recipe": {
+      "shapeless": [
+        22885,
+        32952
+      ]
+    }
+  },
+  {
+    "design_id": 7729,
+    "name_en": "Brick 1×1×1⅔ with 6 Studs on 3 Sides",
+    "name_zh": "三面带凸点砖 1×1×1⅔",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 5,
+    "side_studs": true,
+    "side_stud_faces": [
+      "north",
+      "west",
+      "east"
+    ],
+    "recipe": {
+      "shapeless": [
+        32952,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 37352,
+    "name_en": "Brick Curved 1×2×1 No Studs",
+    "name_zh": "无凸点弧顶砖 1×2×1",
+    "kind": "curved_slope",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 3,
+    "profile": "round",
+    "aliases": [
+      7134
+    ],
+    "recipe": {
+      "shapeless": [
+        3004,
+        11477
+      ]
+    },
+    "trans_colors": [
+      "trans_clear"
+    ]
+  },
+  {
+    "design_id": 49307,
+    "name_en": "Brick Curved 1×1×⅔ Double Curved Top",
+    "name_zh": "双弧顶砖 1×1×⅔",
+    "kind": "curved_slope",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 2,
+    "profile": "double_round",
+    "recipe": {
+      "shapeless": [
+        3005,
+        11477
+      ]
+    }
+  },
+  {
+    "design_id": 3563,
+    "name_en": "Brick Curved 1×2×⅔ Double Curved Top",
+    "name_zh": "双弧顶砖 1×2×⅔",
+    "kind": "curved_slope",
+    "studs_x": 2,
+    "studs_z": 1,
+    "height": 2,
+    "profile": "double_round",
+    "recipe": {
+      "shapeless": [
+        49307,
+        49307
+      ]
+    }
+  },
+  {
+    "design_id": 79756,
+    "name_en": "Brick Curved 1×4×⅔ Double",
+    "name_zh": "双弧顶砖 1×4×⅔",
+    "kind": "curved_slope",
+    "studs_x": 4,
+    "studs_z": 1,
+    "height": 2,
+    "profile": "double_round",
+    "recipe": {
+      "shapeless": [
+        3563,
+        3563
+      ]
+    }
+  },
+  {
+    "design_id": 93273,
+    "name_en": "Brick Curved 4×1 Double",
+    "name_zh": "双曲面拱形砖 4×1",
+    "kind": "curved_slope",
+    "studs_x": 1,
+    "studs_z": 4,
+    "height": 2,
+    "profile": "double",
+    "row_bottoms": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "recipe": {
+      "shapeless": [
+        11477,
+        11477
+      ]
+    }
+  },
+  {
+    "design_id": 86996,
+    "name_en": "Plate 1×1×⅔ with Open Stud",
+    "name_zh": "空心凸点方块 1×1×⅔",
+    "kind": "brick",
+    "studs_x": 1,
+    "studs_z": 1,
+    "height": 2,
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        85861,
+        3024
+      ]
+    }
+  },
+  {
+    "design_id": 35480,
+    "name_en": "Plate 1×2 Rounded with 2 Open Studs",
+    "name_zh": "圆头板 1×2（空心凸点）",
+    "kind": "plate",
+    "studs_x": 2,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          1.5,
+          0.0
+        ],
+        [
+          1.6913,
+          0.0381
+        ],
+        [
+          1.8536,
+          0.1464
+        ],
+        [
+          1.9619,
+          0.3087
+        ],
+        [
+          2.0,
+          0.5
+        ],
+        [
+          1.9619,
+          0.6913
+        ],
+        [
+          1.8536,
+          0.8536
+        ],
+        [
+          1.6913,
+          0.9619
+        ],
+        [
+          1.5,
+          1.0
+        ],
+        [
+          0.5,
+          1.0
+        ],
+        [
+          0.3087,
+          0.9619
+        ],
+        [
+          0.1464,
+          0.8536
+        ],
+        [
+          0.0381,
+          0.6913
+        ],
+        [
+          0.0,
+          0.5
+        ],
+        [
+          0.0381,
+          0.3087
+        ],
+        [
+          0.1464,
+          0.1464
+        ],
+        [
+          0.3087,
+          0.0381
+        ],
+        [
+          0.5,
+          0.0
+        ]
+      ]
+    ],
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        85861,
+        85861
+      ]
+    }
+  },
+  {
+    "design_id": 77850,
+    "name_en": "Plate 1×3 Rounded with 3 Open Studs",
+    "name_zh": "圆头板 1×3（空心凸点）",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 1,
+    "shape": [
+      [
+        [
+          2.5,
+          0.0
+        ],
+        [
+          2.6913,
+          0.0381
+        ],
+        [
+          2.8536,
+          0.1464
+        ],
+        [
+          2.9619,
+          0.3087
+        ],
+        [
+          3.0,
+          0.5
+        ],
+        [
+          2.9619,
+          0.6913
+        ],
+        [
+          2.8536,
+          0.8536
+        ],
+        [
+          2.6913,
+          0.9619
+        ],
+        [
+          2.5,
+          1.0
+        ],
+        [
+          0.5,
+          1.0
+        ],
+        [
+          0.3087,
+          0.9619
+        ],
+        [
+          0.1464,
+          0.8536
+        ],
+        [
+          0.0381,
+          0.6913
+        ],
+        [
+          0.0,
+          0.5
+        ],
+        [
+          0.0381,
+          0.3087
+        ],
+        [
+          0.1464,
+          0.1464
+        ],
+        [
+          0.3087,
+          0.0381
+        ],
+        [
+          0.5,
+          0.0
+        ]
+      ]
+    ],
+    "open_studs": true,
+    "recipe": {
+      "shapeless": [
+        35480,
+        85861
+      ]
+    }
+  },
+  {
+    "design_id": 32828,
+    "name_en": "Plate Round 1×1 with Hollow Stud and Horizontal Bar 1L",
+    "name_zh": "带横杆圆板 1×1",
+    "kind": "round_plate",
+    "studs_x": 1,
+    "studs_z": 1,
+    "open_studs": true,
+    "bars": [
+      {
+        "from": [
+          6,
+          1.5,
+          3
+        ],
+        "to": [
+          12,
+          1.5,
+          3
+        ]
+      }
+    ],
+    "recipe": {
+      "shapeless": [
+        85861,
+        "minecraft:stick"
+      ]
+    }
+  },
+  {
+    "design_id": 14719,
+    "name_en": "Tile 2×2 Corner",
+    "name_zh": "转角平滑砖 2×2（L形）",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        2420
+      ]
+    }
+  },
+  {
+    "design_id": 27263,
+    "name_en": "Tile 2×2 Corner with Cut Corner",
+    "name_zh": "切角转角平滑砖 2×2",
+    "kind": "tile",
+    "studs_x": 2,
+    "studs_z": 2,
+    "shape": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "recipe": {
+      "shapeless": [
+        14719,
+        "minecraft:flint"
+      ]
+    }
+  },
+  {
+    "design_id": 77844,
+    "name_en": "Plate 3×3 Corner",
+    "name_zh": "角板 3×3（L形）",
+    "kind": "plate",
+    "studs_x": 3,
+    "studs_z": 3,
+    "shape": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ]
+    ],
+    "recipe": {
+      "shaped": [
+        "P  ",
+        "P  ",
+        "PPP"
+      ],
+      "key": {
+        "P": 3024
+      }
+    }
+  }
+]

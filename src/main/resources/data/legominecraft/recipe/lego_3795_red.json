@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "legominecraft:lego_3023_red"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3795_red",
+    "count": 1
+  }
+}

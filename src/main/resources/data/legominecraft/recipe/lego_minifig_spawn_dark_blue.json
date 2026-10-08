@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_minifig_statue_dark_blue"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_minifig_spawn_dark_blue",
+    "count": 1
+  }
+}

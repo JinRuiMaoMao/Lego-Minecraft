@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQD"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3010_cyan"
+    },
+    "D": {
+      "item": "legominecraft:lego_3004_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_6111_cyan",
+    "count": 1
+  }
+}

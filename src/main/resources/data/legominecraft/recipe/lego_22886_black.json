@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "D",
+    "D"
+  ],
+  "key": {
+    "D": {
+      "item": "legominecraft:lego_3004_black"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_22886_black",
+    "count": 1
+  }
+}

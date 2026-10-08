@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P ",
+    "PB",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3024_light_gray"
+    },
+    "B": {
+      "item": "legominecraft:lego_3005_light_gray"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_chair_light_gray",
+    "count": 1
+  }
+}

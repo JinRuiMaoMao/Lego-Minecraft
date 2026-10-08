@@ -1,0 +1,6 @@
+{
+  "parent": "legominecraft:block/lego_plant_template",
+  "textures": {
+    "all": "legominecraft:block/lego_lime"
+  }
+}

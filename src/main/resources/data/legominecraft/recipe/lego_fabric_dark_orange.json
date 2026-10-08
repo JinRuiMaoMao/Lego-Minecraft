@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SD"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "item": "minecraft:raw_copper"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_fabric_dark_orange",
+    "count": 1
+  }
+}

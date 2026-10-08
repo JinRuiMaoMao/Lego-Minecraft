@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQD"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3010_lime"
+    },
+    "D": {
+      "item": "legominecraft:lego_3004_lime"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_6111_lime",
+    "count": 1
+  }
+}

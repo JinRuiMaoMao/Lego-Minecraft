@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "T",
+    "L"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_minifig_head_brown"
+    },
+    "T": {
+      "item": "legominecraft:lego_minifig_torso_brown"
+    },
+    "L": {
+      "item": "legominecraft:lego_minifig_legs_brown"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_statue_brown",
+    "count": 1
+  }
+}

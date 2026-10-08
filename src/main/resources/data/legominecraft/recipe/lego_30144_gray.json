@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "F",
+    "F"
+  ],
+  "key": {
+    "F": {
+      "item": "legominecraft:lego_3001_gray"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_30144_gray",
+    "count": 1
+  }
+}

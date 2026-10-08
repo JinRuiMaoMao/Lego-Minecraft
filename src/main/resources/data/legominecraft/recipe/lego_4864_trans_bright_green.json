@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_4864_white"
+    },
+    {
+      "item": "minecraft:lime_stained_glass_pane"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_4864_trans_bright_green",
+    "count": 1
+  }
+}

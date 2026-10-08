@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "legominecraft:lego_3020_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3867_cyan",
+    "count": 1
+  }
+}

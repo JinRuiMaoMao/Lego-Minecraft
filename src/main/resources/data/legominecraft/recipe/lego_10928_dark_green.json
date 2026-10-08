@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NDN",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "D": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_10928_dark_green",
+    "count": 2
+  }
+}

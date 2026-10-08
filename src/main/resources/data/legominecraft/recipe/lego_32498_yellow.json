@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_24505_yellow"
+    },
+    {
+      "item": "legominecraft:lego_69778_yellow"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_32498_yellow",
+    "count": 1
+  }
+}

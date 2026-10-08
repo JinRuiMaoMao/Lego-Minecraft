@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "legominecraft:lego_2456_brown"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_4202_brown",
+    "count": 1
+  }
+}

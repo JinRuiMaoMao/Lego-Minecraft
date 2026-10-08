@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3022_black"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_3068_black",
+    "count": 1
+  }
+}

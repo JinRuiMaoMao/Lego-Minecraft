@@ -1,21 +1,27 @@
 plugins {
-	id 'net.fabricmc.fabric-loom-remap' version "${loom_version}"
+	id 'fabric-loom' version "${loom_version}"
 	id 'maven-publish'
 }
 
 repositories {
-	// Add repositories to retrieve artifacts from in here.
-	// You should only use this when depending on other mods because
-	// Loom adds the essential maven repositories to download Minecraft and libraries from automatically.
-	// See https://docs.gradle.org/current/userguide/declaring_repositories.html
-	// for more information about repositories.
+	maven {
+		name = "Modrinth"
+		url = "https://api.modrinth.com/maven"
+		content {
+			includeGroup "maven.modrinth"
+		}
+	}
+	maven {
+		name = "AlexIIL"
+		url = "https://maven.alexiil.uk/"
+	}
 }
 
 loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"legominecraft" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
@@ -30,6 +36,17 @@ dependencies {
 
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+
+	// Optional: Jade HUD (compile against API, run with mod in dev)
+	modCompileOnly "maven.modrinth:jade:${project.jade_version}"
+	modLocalRuntime "maven.modrinth:jade:${project.jade_version}"
+
+	modApi "alexiil.mc.lib:libblockattributes-all:${libblockattributes_version}"
+	modApi "alexiil.mc.lib:libnetworkstack-base:${libnetworkstack_version}"
+	modApi "alexiil.mc.lib:libmultipart-base:${libmultipart_version}"
+	include "alexiil.mc.lib:libblockattributes-all:${libblockattributes_version}"
+	include "alexiil.mc.lib:libnetworkstack-base:${libnetworkstack_version}"
+	include "alexiil.mc.lib:libmultipart-base:${libmultipart_version}"
 }
 
 processResources {

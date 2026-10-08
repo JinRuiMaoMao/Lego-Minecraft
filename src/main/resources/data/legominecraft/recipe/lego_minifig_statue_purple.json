@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H",
+    "T",
+    "L"
+  ],
+  "key": {
+    "H": {
+      "item": "legominecraft:lego_minifig_head_purple"
+    },
+    "T": {
+      "item": "legominecraft:lego_minifig_torso_purple"
+    },
+    "L": {
+      "item": "legominecraft:lego_minifig_legs_purple"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_minifig_statue_purple",
+    "count": 1
+  }
+}

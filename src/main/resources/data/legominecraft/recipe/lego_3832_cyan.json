@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XD"
+  ],
+  "key": {
+    "X": {
+      "item": "legominecraft:lego_3034_cyan"
+    },
+    "D": {
+      "item": "legominecraft:lego_3022_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3832_cyan",
+    "count": 1
+  }
+}

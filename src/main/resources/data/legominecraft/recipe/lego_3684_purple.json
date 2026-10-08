@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_3039_purple"
+    },
+    {
+      "item": "legominecraft:lego_3039_purple"
+    },
+    {
+      "item": "legominecraft:lego_3039_purple"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_3684_purple",
+    "count": 1
+  }
+}

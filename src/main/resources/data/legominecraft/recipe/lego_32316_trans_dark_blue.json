@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_32316_white"
+    },
+    {
+      "item": "minecraft:blue_stained_glass_pane"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_32316_trans_dark_blue",
+    "count": 1
+  }
+}

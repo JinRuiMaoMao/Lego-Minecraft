@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FT"
+  ],
+  "key": {
+    "F": {
+      "item": "legominecraft:lego_32316_black"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_black"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_32524_black",
+    "count": 1
+  }
+}

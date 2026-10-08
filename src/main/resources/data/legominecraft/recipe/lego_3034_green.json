@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQ",
+    "QQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "legominecraft:lego_3710_green"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3034_green",
+    "count": 1
+  }
+}

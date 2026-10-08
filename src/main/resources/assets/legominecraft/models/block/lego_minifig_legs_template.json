@@ -1,0 +1,25 @@
+{
+  "textures": {
+    "all": "legominecraft:block/lego_blue"
+  },
+  "elements": [
+    {
+      "from": [3, 0, 4],
+      "to": [7, 7, 12],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    },
+    {
+      "from": [9, 0, 4],
+      "to": [13, 7, 12],
+      "faces": {
+        "north": { "texture": "#all" }, "east": { "texture": "#all" },
+        "south": { "texture": "#all" }, "west": { "texture": "#all" },
+        "up": { "texture": "#all" }, "down": { "texture": "#all" }
+      }
+    }
+  ]
+}

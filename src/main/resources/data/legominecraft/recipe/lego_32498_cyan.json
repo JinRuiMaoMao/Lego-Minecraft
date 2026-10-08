@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_24505_cyan"
+    },
+    {
+      "item": "legominecraft:lego_69778_cyan"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_32498_cyan",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "legominecraft:lego_2454_cyan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3754_cyan",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "legominecraft:lego_2456_dark_orange"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_2356_dark_orange",
+    "count": 1
+  }
+}

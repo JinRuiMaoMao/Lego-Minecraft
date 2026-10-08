@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "B "
+  ],
+  "key": {
+    "B": {
+      "item": "legominecraft:lego_3005_tan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3665_tan",
+    "count": 2
+  }
+}

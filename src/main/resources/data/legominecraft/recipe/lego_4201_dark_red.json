@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF",
+    "FF"
+  ],
+  "key": {
+    "F": {
+      "item": "legominecraft:lego_3007_dark_red"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_4201_dark_red",
+    "count": 1
+  }
+}

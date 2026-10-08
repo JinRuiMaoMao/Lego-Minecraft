@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NT"
+  ],
+  "key": {
+    "N": {
+      "item": "legominecraft:lego_64289_dark_tan"
+    },
+    "T": {
+      "item": "legominecraft:lego_43857_dark_tan"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_64290_dark_tan",
+    "count": 1
+  }
+}

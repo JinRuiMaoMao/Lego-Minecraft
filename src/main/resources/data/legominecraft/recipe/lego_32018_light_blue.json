@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TS"
+  ],
+  "key": {
+    "T": {
+      "item": "legominecraft:lego_3702_light_blue"
+    },
+    "S": {
+      "item": "legominecraft:lego_3894_light_blue"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_32018_light_blue",
+    "count": 1
+  }
+}

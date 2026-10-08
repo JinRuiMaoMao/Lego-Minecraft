@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "legominecraft:lego_4073_brown"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:tripwire_hook"
+    }
+  ],
+  "result": {
+    "id": "legominecraft:lego_4735_brown",
+    "count": 1
+  }
+}

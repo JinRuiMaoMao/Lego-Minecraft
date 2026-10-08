@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B ",
+    " B"
+  ],
+  "key": {
+    "B": {
+      "item": "legominecraft:lego_3005_sand_green"
+    }
+  },
+  "result": {
+    "id": "legominecraft:lego_3062_sand_green",
+    "count": 2
+  }
+}
